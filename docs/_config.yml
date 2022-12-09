@@ -21,7 +21,7 @@
 
 
 # Serve on GitHub
-url: https://gisma-courses.github.io
+url: https://ammrie.github.io
 baseurl: "/digitalesModellieren/"
 
 
@@ -149,7 +149,7 @@ plugins:
 # Handling Reading
 encoding: UTF-8
 
-repository: gisma-courses/digitalesModellieren
+repository: ammrie/digitalesModellieren
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
