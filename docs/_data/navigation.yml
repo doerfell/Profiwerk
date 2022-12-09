@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Kurseinheiten"
+    url: /units.html
+
+
+
+docs:
+  - title: Ways out
+    children:
+      - title: "Kurseinheiten"
+        url: /units.html
+
