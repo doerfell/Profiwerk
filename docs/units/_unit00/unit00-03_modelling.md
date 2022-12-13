@@ -6,33 +6,44 @@ header:
 ---
 
 ## Das Mammutspiel 
-Modellierung kann helfen Prozesse zu verstehen, die intuitiv zunächst nicht zugänglich sind. Eine großer Stärke ist die Kombination verschiedener Prozesse. Doch auch die einfachste Form eines systemdynamischen Modells kann bereits helfen probabilistische Prozesse begreifbar machen. Ein Beispiel ist das [Mammutspiel](static.clexchange.org/ftp/documents/x-curricular/CC2010-11Shape3MammothGameSF.pdf). Eine Person sollte die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen, eine andere in einem Graphen.   
+Modellierung kann helfen Prozesse zu verstehen, die intuitiv oft nicht zugänglich sind. Eine große Stärke liegt in der Kombination verschiedener Prozesse und ihrer Wechselwirkungen. Doch auch die einfachste Form eines systemdynamischen Modells kann hilfreich sein um probabilistische Prozesse nachvollziehbar zu machen.
 
-### analog
-Jede Gruppe bekommt 15 Würfel, die die Mammuts einer Herde darstellen. Jedes Würfeln sympolisiert ein Jahr. Stirbt ein Mammut wird der entsprechnde Würfel aussortiert. Wird ein Mammut geboren kommt ein Würfel dazu. Eine Person sollte die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen, eine andere in einem Graphen.   
+Ein Beispiel soll das [Mammutspiel](static.clexchange.org/ftp/documents/x-curricular/CC2010-11Shape3MammothGameSF.pdf) dienen. 
 
-* 1 = ein Kalb wird geboren
-* 2 = das Mammut wird getöten
-* 3 = das Mammut verhungert
-* 4 = das Mammut lebt ein weiteres Jahr
-* 5 = das Mammut lebt ein weiteres Jahr
-* 6 = das Mammut lebt ein weiteres Jahr
-{: .notice--success} 
+## Analog
+Jede Gruppe bekommt 15 Würfel, die die Mammuts einer Herde darstellen. Jedes Würfeln sympolisiert ein Jahr. Stirbt ein Mammut wird der entsprechnde Würfel aussortiert. Wird ein Mammut geboren kommt ein Würfel dazu. Zur besseren Nachvollziehbarkeit sollte eine Person den Spielstand jeder Runde, also die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen und als Graph zeichnen.   
+
+
+
+<img src="../assets/images/dice-one.png"> ein Mammutkalb wird geboren<br>
+<img src="../assets/images/dice-two.png"> das Mammut wird getötet<br>
+<img src="../assets/images/dice-three.png"> das Mammut verhungert<br>
+<img src="../assets/images/dice-four.png"> das Mammut lebt ein weiteres Jahr<br>
+<img src="../assets/images/dice-five.png"> das Mammut lebt ein weiteres Jahr<br>
+<img src="../assets/images/dice-six.png"> das Mammut lebt ein weiteres Jahr<br>
+{: .notice--success}
+
 
 <iframe src="https://openprocessing.org/sketch/100534/embed/" width="400" height="400"></iframe>
 
-Diskussion der Ergebnisse
-* Warum ist die Herde ausgestorben, obwohl Kälber geboren wurden?
-* Warum ist der Graph keine Gerade?
-* Würde die Herde auch aussterben, wenn sie zu Beginn aus 100 Mammuts bestanden hätte?
-* Unter welchen Bedingungen bleibt die Population konstant? 
+## Fragen
 
-Die Entwicklung der Herdengröße ist von Feedback geprägt. Mehr Mammuts erhöhen die Anzahl an Geburten. Mehr Tote reduzieren Anzahl der Mammunts und damit auch die Todeszahlen.
-![Feedback](/assets/images/Feedbackloop.png)
+* Warum ist die Herde ausgestorben, obwohl Kälber geboren wurden?<br>
+* Warum ist der Graph keine Gerade?<br>
+* Würde die Herde auch aussterben, wenn sie zu Beginn aus 100 Mammuts bestanden hätte?<br>
+* Unter welchen Bedingungen bleibt die Population konstant?
+{: .notice--info}
 
-Die Modellierung der Herdenentwicklung im Wirkungsdiagramm ist der Grundstein für eine digitale systemdynamische Modellierung. 
 
-### digital 
+## Erläuterungen
+
+Die Entwicklung der Herdengröße wird durch Feedbacks oder Wirkungskopplungen bestimmt. So erhöhen mehr Mammuts die Anzahl an Geburten, allerdings reduzieren mehr tote Mammuts die Anzahl der Mammuts und damit auch die Todeszahlen.
+
+  <img src="../assets/images/Feedbackloop.png">
+
+Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage für eine digitale systemdynamische Modellierung. 
+
+## Digital
 <iframe src="https://insightmaker.com/insight/7GjbYKkATFtF9ekSXNeyAj/embed?topBar=1&sideBar=1&zoom=1" title="Embedded model" width="800" height="600"></iframe>
 
 
