@@ -1,5 +1,5 @@
 ---
-title: Gierig oder solidarisch
+title: Agentenbasierte Modelierung 
 header:
   image: "/assets/images/greedy-splash.png"
   caption: 'Photo: **Rieke Ammoneit**'
