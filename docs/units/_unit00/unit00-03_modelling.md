@@ -12,7 +12,7 @@ Forresters Modell ist sehr komplex und zunächst unübersichtlich. Trotz der hoh
 Modellierung kann helfen Prozesse zu verstehen, die intuitiv zunächst nicht zugänglich sind. Eine großer Stärke ist die Kombination verschiedener Prozesse. Doch auch die einfachste Form eines systemdynamischen Modells kann bereits helfen probabilistische Prozesse begreifbar machen. Ein Beispiel ist das [Mammutspiel](static.clexchange.org/ftp/documents/x-curricular/CC2010-11Shape3MammothGameSF.pdf). Eine Person sollte die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen, eine andere in einem Graphen.   
 
 ### analog
-Jede Gruppe bekommt 15 Würfel, die die Mammuts einer Herde darstellen. Jedes Würfeln sympolisiert ein Jahr. Stirbt ein Mammut wird der entsprechnde Würfel aussortiert. Wird ein Mammut geboren komme ein Würfel dazu. Eine Person sollte die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen, eine andere in einem Graphen.   
+Jede Gruppe bekommt 15 Würfel, die die Mammuts einer Herde darstellen. Jedes Würfeln sympolisiert ein Jahr. Stirbt ein Mammut wird der entsprechnde Würfel aussortiert. Wird ein Mammut geboren kommt ein Würfel dazu. Eine Person sollte die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen, eine andere in einem Graphen.   
 
 Die Regeln
 * 1 = ein Kalb wird geboren
