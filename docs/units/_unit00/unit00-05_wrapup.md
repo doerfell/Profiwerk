@@ -1,5 +1,5 @@
 ---
-title: Materialsammulung
+title: Materialsammlung
 header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
