@@ -14,7 +14,7 @@ Modellierung kann helfen Prozesse zu verstehen, die intuitiv zunächst nicht zug
 ### analog
 <iframe src="https://openprocessing.org/sketch/100534/embed/" width="400" height="400"></iframe>
 
-![Feedback](/assets/images/feedbackloop.png)
+![Feedback](/assets/images/Feedbackloop.png)
 
 ### digital 
 <iframe src="https://insightmaker.com/insight/7GjbYKkATFtF9ekSXNeyAj/embed?topBar=1&sideBar=1&zoom=1" title="Embedded model" width="800" height="600"></iframe>
