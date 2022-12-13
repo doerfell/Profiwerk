@@ -25,9 +25,16 @@ Die Regeln
 
 <iframe src="https://openprocessing.org/sketch/100534/embed/" width="400" height="400"></iframe>
 
-* Warum ist die Herde ausgestorben, obwohl 
+Diskussion der Ergebnisse
+* Warum ist die Herde ausgestorben, obwohl Kälber geboren wurden?
+* Warum ist der Graph keine Gerade?
+* Würde die Herde auch aussterben, wenn sie zu Beginn aus 100 Mammuts bestanden hätte?
+* Unter welchen Bedingungen bleibt die Population konstant? 
 
+Die Entwicklung der Herdengröße ist von Feedback geprägt. Mehr Mammuts erhöhen die Anzahl an Geburten. Mehr Tote reduzieren Anzahl der Mammunts und damit auch die Todeszahlen.
 ![Feedback](/assets/images/Feedbackloop.png)
+
+Die Modellierung der Herdenentwicklung im Wirkungsdiagramm ist der Grundstein für eine digitale systemdynamische Modellierung. 
 
 ### digital 
 <iframe src="https://insightmaker.com/insight/7GjbYKkATFtF9ekSXNeyAj/embed?topBar=1&sideBar=1&zoom=1" title="Embedded model" width="800" height="600"></iframe>
