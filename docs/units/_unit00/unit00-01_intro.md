@@ -25,4 +25,4 @@ Bitte diskutieren Sie zu dritt Folgendes:
 * Welche Vorteile hat es digital zu modellieren?
 * Welche Erwartungen haben Sie an diesen Workshop?
 
-Notieren Sie bitte hier die Ergebnisse oder Inhalte Ihrer Diskussion. 
+Notieren Sie bitte [hier](https://cloud.rz.uni-kiel.de/index.php/s/FGzpX4NJLFNrLtM) die Ergebnisse oder Inhalte Ihrer Diskussion. 
