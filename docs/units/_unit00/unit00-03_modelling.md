@@ -8,7 +8,7 @@ header:
 ## Das Mammutspiel 
 Modellierung kann helfen Prozesse zu verstehen, die intuitiv oft nicht zugänglich sind. Eine große Stärke liegt in der Kombination verschiedener Prozesse und ihrer Wechselwirkungen. Doch auch die einfachste Form eines systemdynamischen Modells kann hilfreich sein um probabilistische Prozesse nachvollziehbar zu machen.
 
-Ein Beispiel soll das [Mammutspiel](static.clexchange.org/ftp/documents/x-curricular/CC2010-11Shape3MammothGameSF.pdf) dienen. 
+Ein Beispiel soll das [Mammutspiel](http://static.clexchange.org/ftp/documents/x-curricular/CC2010-11Shape3MammothGameSF.pdf) dienen. 
 
 ## Analog
 Jede Gruppe bekommt 15 Würfel, die die Mammuts einer Herde darstellen. Jedes Würfeln sympolisiert ein Jahr. Stirbt ein Mammut wird der entsprechnde Würfel aussortiert. Wird ein Mammut geboren kommt ein Würfel dazu. Zur besseren Nachvollziehbarkeit sollte eine Person den Spielstand jeder Runde, also die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen und als Graph zeichnen.   
