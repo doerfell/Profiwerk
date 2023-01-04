@@ -17,6 +17,7 @@ Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage f�
 
 * Suchen Sie nach dem Mammoths Game. Nutzen Sie für die folgenden Aufgaben eine simple oder die unten verlinkte Version. 
 * Finden Sie den Kipppunkt. Welche Geburten- und Sterberate sind erforderlich damit die Mammuts nicht ausstreben?
+* Reproduzieren Sie Ihre Ergebnisse.
 * Deckt sich das Ergebnis mit Ihrer zuvor aufgestellten Hypothese zur stabilen Herdengröße?
 * Diskutieren Sie Gründe für Abweichungen von Ihrer Hypothese, sofern diese existieren.
  {: .notice--info}
