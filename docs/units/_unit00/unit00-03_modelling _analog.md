@@ -39,6 +39,9 @@ Diskutieren Sie in Ihrer Gruppe kurz die folgenden Fragen:
 Notieren Sie Ihre Annahmen zu den Bedingungen, unter denen die Population konstant bleibt, als Hypothese. 
 {: .notice--info}
 
+Für diese Aufgabe sollten sie sich 5 Minuten Zeit nehmen.
+{: .notice--success} 
+
 ## Wechselwirkungen abstrahieren
 Um das Mammutspiel am Computer zu implementieren zu können, ist es zielführend die Entwicklung der Herdengröße zu abstrahieren. Da im Folgenden systemdynamisch gearbeitet werden soll, bietet es sich an ein Wirkungsdiagramm als Grundlage zu entwickeln. 
 
@@ -47,6 +50,9 @@ Entwickeln Sie ein Wirkungsdiagramm, das die Entwicklung der Herdengröße besch
 * Worauf nimmt die Herdengröße Einfluss?
 * Arbeiten Sie auf möglichst hoher Abstraktionsebene.
 {: .notice--info}
+
+Für diese Aufgabe sollten sie sich 10 Minuten Zeit nehmen.
+{: .notice--success} 
 
 ## Zusatzmaterial
 Das Mammutspiel ist mit ausführlichen Erläterungen zum unterrichtlichen Einsatz [hier](http://static.clexchange.org/ftp/documents/x-curricular/CC2010-11Shape3MammothGameSF.pdf) veröffentlicht. 
