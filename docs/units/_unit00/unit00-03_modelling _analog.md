@@ -28,7 +28,7 @@ Das Ergbnis des Spiels wird so oder ähnlich aussehen.
 <img src="../assets/images/MammutGraph.png">
 
 ## Fragen
-Diskutieren sie in Ihrer Gruppe kurz die folgenden Fragen:
+Diskutieren Sie in Ihrer Gruppe kurz die folgenden Fragen:
 * Warum ist die Herde ausgestorben, obwohl Kälber geboren wurden?<br>
 * Warum ist der Graph keine Gerade?<br>
 * Würde die Herde auch aussterben, wenn sie zu Beginn aus 100 Mammuts bestanden hätte?<br>
