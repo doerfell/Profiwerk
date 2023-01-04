@@ -5,13 +5,12 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 ---
 
-## Das Mammutspiel 
+##  Prozesse modellieren
 Modellierung kann helfen Prozesse zu verstehen, die intuitiv oft nicht zugänglich sind. Eine große Stärke liegt in der Kombination verschiedener Prozesse und ihrer Wechselwirkungen. Doch auch die einfachste Form eines systemdynamischen Modells kann hilfreich sein um probabilistische Prozesse nachvollziehbar zu machen.
+ 
 
-Ein Beispiel soll das [Mammutspiel](http://static.clexchange.org/ftp/documents/x-curricular/CC2010-11Shape3MammothGameSF.pdf) dienen. 
-
-## Analog
-Jede Gruppe bekommt 15 Würfel, die die Mammuts einer Herde darstellen. Jedes Würfeln sympolisiert ein Jahr. Stirbt ein Mammut wird der entsprechnde Würfel aussortiert. Wird ein Mammut geboren kommt ein Würfel dazu. Zur besseren Nachvollziehbarkeit sollte eine Person den Spielstand jeder Runde, also die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen und als Graph zeichnen.   
+## Das Mammutspiel
+Als Beispiel soll das Mammutspiel dienen. Jede Schüler/innengruppe bekommt 20 Würfel, die die Mammuts einer Herde darstellen. Jedes Würfeln sympolisiert ein Jahr. Stirbt ein Mammut wird der entsprechende Würfel aussortiert. Wird ein Mammut geboren kommt ein Würfel dazu. Zur besseren Nachvollziehbarkeit sollte eine Person den Spielstand jeder Runde, also die aktuelle Herdengröße für jedes Jahr in einer Tabelle erfassen. Anschließend werden die Daten als Graph dargestellt
 
 
 
@@ -23,11 +22,12 @@ Jede Gruppe bekommt 15 Würfel, die die Mammuts einer Herde darstellen. Jedes W�
 <img src="../assets/images/dice-six.png"> das Mammut lebt ein weiteres Jahr<br>
 {: .notice--success}
 
+## Ergebnis
+Das Ergbnis des Spiels wird so oder ähnlich aussehen.
 
-<iframe src="https://openprocessing.org/sketch/100534/embed/" width="400" height="400"></iframe>
 
 ## Fragen
-
+Diskutieren sie in Ihrer Gruppe kurz die folgenden Fragen:
 * Warum ist die Herde ausgestorben, obwohl Kälber geboren wurden?<br>
 * Warum ist der Graph keine Gerade?<br>
 * Würde die Herde auch aussterben, wenn sie zu Beginn aus 100 Mammuts bestanden hätte?<br>
@@ -35,16 +35,19 @@ Jede Gruppe bekommt 15 Würfel, die die Mammuts einer Herde darstellen. Jedes W�
 {: .notice--info}
 
 
-## Erläuterungen
+## Wechselwirkungen abstrahieren
+Um das Mammutspiel am Computer zu implementieren zu können, ist es zielführend die Entwicklung der Herdengröße zu abstrahieren. Da im Folgenden systemdynamisch gearbeitet werden soll, bietet es sich an ein Wirkungsdiagramm als Grundlage zu entwickeln. 
 
-Die Entwicklung der Herdengröße wird durch Feedbacks oder Wirkungskopplungen bestimmt. So erhöhen mehr Mammuts die Anzahl an Geburten, allerdings reduzieren mehr tote Mammuts die Anzahl der Mammuts und damit auch die Todeszahlen.
+Entwickeln Sie ein Wirkungsdiagramm, das die Entwicklung der Herdengröße beschreibt. Bedenken Sie dabei:
+* Was nimmt Einfluss auf die Herdengröße?
+* Worauf nimmt die Herdengröße Einfluss?
+* Arbeiten Sie auf möglichst hoher Abstraktionsebene.
+{: .notice--info}
 
-  <img src="../assets/images/Feedbackloop.png">
+## Zusatzmaterial
+Das Mammutspiel ist mit ausführlichen Erläterungen zum unterrichtlichen Einsatz [hier](http://static.clexchange.org/ftp/documents/x-curricular/CC2010-11Shape3MammothGameSF.pdf) veröffentlicht. 
 
-Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage für eine digitale systemdynamische Modellierung. 
 
-## Digital
-<iframe src="https://insightmaker.com/insight/7GjbYKkATFtF9ekSXNeyAj/embed?topBar=1&sideBar=1&zoom=1" title="Embedded model" width="800" height="600"></iframe>
 
 
 
