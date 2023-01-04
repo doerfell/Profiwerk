@@ -25,6 +25,7 @@ Als Beispiel soll das Mammutspiel dienen. Jede Schüler/innengruppe bekommt 20 W
 ## Ergebnis
 Das Ergbnis des Spiels wird so oder ähnlich aussehen.
 
+<img src="../assets/images/MammutGraph.png">
 
 ## Fragen
 Diskutieren sie in Ihrer Gruppe kurz die folgenden Fragen:
