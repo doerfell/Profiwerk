@@ -14,10 +14,6 @@ Durch das Modellieren kann wissenschaftlicher Erkenntnisgewinnung authentisch er
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgBtG3D6h-5pykzypaAGdP8aPJ6nYmSGNrppJoXcYhdqYw1nYKeiVvxAUH5Gh1cQSoD1GiY1MrZOuD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-### Insightmaker
-[Insightmaker](https://insightmaker.com/) bietet noch viele andere implementierte Modelle. Es können dort auch eigene Modelle entworfen und Simulationen durchführen werden. 
-
-[Systemdynamische Modellierung](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) - Eine kurze Einführung (englisch). 
 
 
 
