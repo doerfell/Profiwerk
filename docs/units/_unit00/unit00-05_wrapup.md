@@ -18,6 +18,7 @@ Eine umfassende Aufarbeitung der Sytsemdynamik für den Unterricht findet sich [
 
 ### Hintergrundinfo
 Hintergründe zur Systemdynamik und dem Einsatz im Unterricht [hier](http://www.clexchange.org/gettingstarted/intropacket.asp).
+[Systemdynamische Modellierung](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) - Eine kurze Einführung (englisch). 
 
 ## Agentenbasierte Modellierung
 ### Software
@@ -28,4 +29,3 @@ Das [NetLogo-Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html)
 ### Unterrichtsmaterial
 Auf Englischer Sprache einige [umfangreiche Projekte](http://ccl.northwestern.edu/classroom%20resourses.shtml) für den Unterricht.
 Ein eigener Kurs zur [Modellierung und Nachhaltigkeit](https://ammrie.github.io/sustainablityNetLogo//unit00/unit00-02_intro.html) auf Oberstufenniveau, entwickelt für eine Jugendkonferenz. 
-
