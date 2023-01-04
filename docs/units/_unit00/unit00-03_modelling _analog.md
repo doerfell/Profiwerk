@@ -35,6 +35,8 @@ Diskutieren Sie in Ihrer Gruppe kurz die folgenden Fragen:
 * Unter welchen Bedingungen bleibt die Population konstant?
 {: .notice--info}
 
+Notieren Sie Ihre Annahmen zu den Bedingungen, unter denen die Population konstant bleibt, als Hypothese. 
+{: .notice--info}
 
 ## Wechselwirkungen abstrahieren
 Um das Mammutspiel am Computer zu implementieren zu können, ist es zielführend die Entwicklung der Herdengröße zu abstrahieren. Da im Folgenden systemdynamisch gearbeitet werden soll, bietet es sich an ein Wirkungsdiagramm als Grundlage zu entwickeln. 
