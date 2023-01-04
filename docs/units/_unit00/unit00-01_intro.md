@@ -13,7 +13,7 @@ Wir wollen uns in diesem Workshop mit der softwaregestützten Modellierung und S
 Bevor wir starten, interessiere ich mich zunächst für Ihr Interesse am Thema. 
 <!--more-->
 
-Für diesen Einstieg sollten Sie sich etwa 7 Minuten Zeit nehmen.
+Für diesen Einstieg sollten Sie sich etwa 5 Minuten Zeit nehmen.
 {: .notice--success} 
 
 
