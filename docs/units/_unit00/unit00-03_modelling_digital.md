@@ -16,10 +16,9 @@ Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage f�
 [Insightmaker](https://insightmaker.com/) ist eine Modelliersoftware, die es erlaubt eigene Modelle zu entwerfen und Simulationen durchzuführen. Dort finden sich auch viele bereits implementierte Modelle, die frei genutzt werden können. 
 
 * Suchen Sie nach dem Mammoths Game. Nutzen Sie für die folgenden Aufgaben eine simple oder die unten verlinkte Version. 
-* Welche Geburten- und Sterberate sind erforderlich damit die Mammuts nicht ausstreben? Finden Sie den Kipppunkt. 
-* Versuchen Sie Ihre Simulationsergebnisse zu reproduzieren.
+* Welche Geburten- und Sterberate sind erforderlich, damit die Mammuts nicht aussterben? Finden Sie den Kipppunkt. 
+* Versuchen Sie, Ihre Simulationsergebnisse zu reproduzieren.
 * Deckt sich das Ergebnis mit Ihrer zuvor aufgestellten Hypothese zur stabilen Herdengröße?
-* Diskutieren Sie Gründe für Abweichungen von Ihrer Hypothese, sofern diese existieren.
  {: .notice--info}
  
 Sie können das Model auch verändern: Wirkungspfeile hinzufügen oder entfernen und selbst rekonstruieren. Dazu müssen Sie auf *Clone Insight* gehen und sich kostenfreie mit einer E-Mail-Adresse registrieren. 
