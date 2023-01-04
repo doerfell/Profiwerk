@@ -21,6 +21,9 @@ Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage f�
 * Deckt sich das Ergebnis mit Ihrer zuvor aufgestellten Hypothese zur stabilen Herdengröße?
  {: .notice--info}
  
+Für diese Aufgabe sollten Sie sich 10 Minuten Zeit nehmen.
+{: .notice--success} 
+
 Sie können das Model auch verändern: Wirkungspfeile hinzufügen oder entfernen und selbst rekonstruieren. Dazu müssen Sie auf *Clone Insight* gehen und sich kostenfreie mit einer E-Mail-Adresse registrieren. 
 
 
