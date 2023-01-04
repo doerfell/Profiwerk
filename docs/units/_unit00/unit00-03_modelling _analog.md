@@ -23,7 +23,7 @@ Als Beispiel soll das Mammutspiel dienen. Jede Schüler/innengruppe bekommt 20 W
 {: .notice--success}
 
 ## Ergebnis
-Das Ergbnis des Spiels wird so oder ähnlich aussehen.
+Das Ergebnis des Spiels wird so oder ähnlich aussehen.
 
 <img src="../assets/images/MammutGraph.png">
 
