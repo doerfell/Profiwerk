@@ -21,8 +21,8 @@ Für diesen Einstieg sollten Sie sich etwa 5 Minuten Zeit nehmen.
 
 Bitte diskutieren Sie zu dritt Folgendes: 
 
-* Welche Relevanz hat das Modellieren für den Biologieunterricht?
-* Welche Vorteile hat es digital zu modellieren?
+* Welche Relevanz hat das Modellieren im Biologieunterricht für Sie?
+* Welche Potenziale sehen Sie darin digital zu modellieren?
 * Welche Erwartungen haben Sie an diesen Workshop?
 
-Notieren Sie bitte [hier](https://cloud.rz.uni-kiel.de/index.php/s/FGzpX4NJLFNrLtM) die Ergebnisse oder Inhalte Ihrer Diskussion. 
+Notieren Sie bitte [hier](https://cloud.rz.uni-kiel.de/index.php/s/3EerzNeQicjc3cT) die Ergebnisse oder Inhalte Ihrer Diskussion. 
