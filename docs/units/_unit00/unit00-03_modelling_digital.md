@@ -20,7 +20,7 @@ Lassen sich die analogen Ergebnisse reproduzieren?
 * Experimentiere nun mit verschiedenen Einstellungen. Wie müssen die Raten eingestellt sein, damit die Mammutpopulation wächst? Wie müssen die Raten eingestellt sein, damit die Mammutpopulation schrumpft?
 * Überprüfe nun deine Hypothese zu stabilen Bedingungen. Wie müssen die Raten eingestellt sein, damit die Population stabil bleibt? Lassen sich die Ergebnisse reproduzieren, d.h. wiederholt erzeugen?
 * Diskutiere etwaige Gründe für ein Abweichen der vom Modell generierten Daten von deiner Hypothese mit deinem Nachbarn/ deiner Nachbarin.
-* Diskutiere mit deinem Nachbarn/ deiner Nachbarin was die gewonnenen Erkenntnisse dazu beitragen das Aussterben der Mammuts zu verstehen. Was erklärt das Model nicht?
+* Diskutiere mit deinem Nachbarn/ deiner Nachbarin, was die gewonnenen Erkenntnisse dazu beitragen, das Aussterben der Mammuts zu verstehen. Was erklärt das Modell nicht?
  {: .notice--info}
  
 Für diese Aufgabe sollten Sie sich 10 Minuten Zeit nehmen.
