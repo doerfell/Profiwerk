@@ -13,12 +13,17 @@ Die Entwicklung der Herdengröße wird durch Feedbacks oder Wirkungskopplungen b
 Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage für eine digitale systemdynamische Modellierung. Aus diesem wird im nächsten Schritt ein Flussdiagramm entwickelt, das dann implementiert wird. Wir springen heute direkt zur erfolgreichen Implementation. 
 
 ### Insightmaker
-[Insightmaker](https://insightmaker.com/) ist eine Modelliersoftware, die es erlaubt eigene Modelle zu entwerfen und Simulationen durchzuführen. Dort finden sich auch viele bereits implementierte Modelle, die frei genutzt werden können. 
+[Insightmaker](https://insightmaker.com/) ist eine Modelliersoftware, die es erlaubt eigene Modelle zu entwerfen und Simulationen durchzuführen. Dort finden sich auch viele bereits implementierte Modelle, die frei genutzt werden können. Suchen Sie nach dem Mammoths Game. Nutzen Sie für die folgenden Aufgaben eine simple oder die unten verlinkte Version.
 
-* Suchen Sie nach dem Mammoths Game. Nutzen Sie für die folgenden Aufgaben eine simple oder die unten verlinkte Version. 
-* Welche Geburten- und Sterberate sind erforderlich, damit die Mammuts nicht aussterben? Finden Sie den Kipppunkt. 
-* Versuchen Sie, Ihre Simulationsergebnisse zu reproduzieren.
-* Deckt sich das Ergebnis mit Ihrer zuvor aufgestellten Hypothese zur stabilen Herdengröße?
+* Stell die Geburten- und Sterberate so, wie im analogen Spiel ein.
+** Lassen sich die analogen Ergebnisse reproduzieren?
+* Experimentiere nun mit verschiedenen Einstellungen.
+** Wie müssen die Raten eingestellt sein, damit die Mammutpopulation wächst?
+** Wie müssen die Raten eingestellt sein, damit die Mammutpopulation schrumpft?
+* Überprüfe nun deine Hypothese zu stabilen Bedingungen.
+** Wie müssen die Raten eingestellt sein, damit die Population stabil bleibt?
+** Lassen sich die Ergebnisse reproduzieren, d.h. wiederholt erzeugen?
+* Diskutiere etwaige Gründe für ein Abweichen der vom Modell generierten Daten von deiner Hypothese mit deinem Nachbarn/ deiner Nachbarin.
  {: .notice--info}
  
 Für diese Aufgabe sollten Sie sich 10 Minuten Zeit nehmen.
