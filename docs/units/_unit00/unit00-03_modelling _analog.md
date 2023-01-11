@@ -1,5 +1,5 @@
 ---
-title: Einstieg ins Modellieren
+title: Das Mammutspiel - analog
 header:
   image: "/assets/images/00-unit-splash.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
