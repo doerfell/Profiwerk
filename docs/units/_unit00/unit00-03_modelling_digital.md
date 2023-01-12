@@ -26,6 +26,8 @@ Lassen sich die analogen Ergebnisse reproduzieren?
 Für diese Aufgabe sollten Sie sich 15 Minuten Zeit nehmen.
 {: .notice--success} 
 
+Für den Unterricht sind die Aufgaben in einem [Arbeitsblatt]({{ site.baseurl }}/assets/scripts/){:target="_blank"} integriert.
+
 Sie können das Model auch verändern: Wirkungspfeile hinzufügen oder entfernen und selbst rekonstruieren. Dazu müssen Sie auf *Clone Insight* gehen und sich kostenfreie mit einer E-Mail-Adresse registrieren. 
 
 
