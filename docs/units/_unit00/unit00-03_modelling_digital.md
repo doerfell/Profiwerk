@@ -23,7 +23,7 @@ Lassen sich die analogen Ergebnisse reproduzieren?
 * Diskutiere mit deinem Nachbarn/ deiner Nachbarin, was die gewonnenen Erkenntnisse dazu beitragen, das Aussterben der Mammuts zu verstehen. Was erklärt das Modell nicht?
  {: .notice--info}
  
-Für diese Aufgabe sollten Sie sich 10 Minuten Zeit nehmen.
+Für diese Aufgabe sollten Sie sich 15 Minuten Zeit nehmen.
 {: .notice--success} 
 
 Sie können das Model auch verändern: Wirkungspfeile hinzufügen oder entfernen und selbst rekonstruieren. Dazu müssen Sie auf *Clone Insight* gehen und sich kostenfreie mit einer E-Mail-Adresse registrieren. 
