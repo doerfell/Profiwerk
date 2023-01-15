@@ -36,8 +36,6 @@ Diese Angebot soll
 ## Fortbildungen 
 Ab Anfang nächsten Jahres soll ein Fortbildungsangebot zum digitalen Modellieren im Biologieunterricht geschaffen werden. Geplant ist ein Angebot, das drei Workshops in Präsenz umfasst und durch digitale Ressourcen unterstützt wird. In der Fortbildung sollen die Grundlagen der systemdynamischen Modellierung und der digitale Implementierung gelegt werden - dies umfasst auch eine Einführung in entsprechende Software, außerdem wird die unterrichtliche Umsetzung fokussiert und im professionellen Austausch entwickelt. Bei Interesse von ganzen Fachschaften, kommen wir gerne an Schulen in Schleswig-Holstein, sodass Sie nicht nach Kiel reisen müssen. Auch bei Interesse an digitalen Angeboten können Sie gerne Kontakt mir mit aufnehmen.
 
-Nehmen Sie gerne auch an dieser Umfrage zum Interesse an entsprechenden Fortbildungen teil, damit die Fortbildungsangebote für die Bedürfnisse der Teilnehmenden  optimiert werden können. 
-
 ## Kontakt
 Bei inhaltlichen Nachfragen oder Anregungen und bei Interesse zu Fortbildungsangboten freue ich mich über Kontaktaufnahme per Mail.
  
