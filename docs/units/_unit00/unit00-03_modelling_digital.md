@@ -15,12 +15,12 @@ Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage f�
 ### Insightmaker
 [Insightmaker](https://insightmaker.com/) ist eine Modelliersoftware, die es erlaubt eigene Modelle zu entwerfen und Simulationen durchzuführen. Dort finden sich auch viele bereits implementierte Modelle, die frei genutzt werden können. Suchen Sie nach dem Mammoths Game. Nutzen Sie für die folgenden Aufgaben eine simple oder die unten verlinkte Version.
 
-* Stell die Geburten- und Sterberate so, wie im analogen Spiel ein.
+* Stellen Sie die Geburten- und Sterberate so, wie im analogen Spiel ein.
 Lassen sich die analogen Ergebnisse reproduzieren?
-* Experimentiere nun mit verschiedenen Einstellungen. Wie müssen die Raten eingestellt sein, damit die Mammutpopulation wächst? Wie müssen die Raten eingestellt sein, damit die Mammutpopulation schrumpft?
-* Überprüfe nun deine Hypothese zu stabilen Bedingungen. Wie müssen die Raten eingestellt sein, damit die Population stabil bleibt? Lassen sich die Ergebnisse reproduzieren, d.h. wiederholt erzeugen?
-* Diskutiere etwaige Gründe für ein Abweichen der vom Modell generierten Daten von deiner Hypothese mit deinem Nachbarn/ deiner Nachbarin.
-* Diskutiere mit deinem Nachbarn/ deiner Nachbarin, was die gewonnenen Erkenntnisse dazu beitragen, das Aussterben der Mammuts zu verstehen. Was erklärt das Modell nicht?
+* Überprüfen Sie nun Ihre Hypothese zu stabilen Bedingungen. Wie müssen die Raten eingestellt sein, damit die Population stabil bleibt? Lassen sich die Ergebnisse reproduzieren, d.h. wiederholt erzeugen?
+* Diskutieren Sie etwaige Gründe für ein Abweichen der vom Modell generierten Daten von Ihrer Hypothese mit Nachbarn/innen.
+* Diskutieren Sie mit Nachbar/innen, was die gewonnenen Erkenntnisse dazu beitragen, das Aussterben der Mammuts zu verstehen. Was erklärt das Modell nicht?
+* Welches prognostische Potenzial hat das Modell für gegenwärtige Entwicklungen?
  {: .notice--info}
  
 Für diese Aufgabe sollten Sie sich 15 Minuten Zeit nehmen.
