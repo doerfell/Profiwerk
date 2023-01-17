@@ -12,8 +12,8 @@ Die Entwicklung der Herdengröße wird durch Feedbacks oder Wirkungskopplungen b
 
 Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage für eine digitale systemdynamische Modellierung. Aus diesem wird im nächsten Schritt ein Flussdiagramm entwickelt, das dann implementiert wird. Wir springen heute direkt zur erfolgreichen Implementation. 
 
-### Insightmaker
-[Insightmaker](https://insightmaker.com/) ist eine Modelliersoftware, die es erlaubt eigene Modelle zu entwerfen und Simulationen durchzuführen. Dort finden sich auch viele bereits implementierte Modelle, die frei genutzt werden können. Suchen Sie nach dem Mammoths Game. Nutzen Sie für die folgenden Aufgaben eine simple oder die unten verlinkte Version.
+### Insight Maker
+[Insight Maker](https://insightmaker.com/) ist eine Modelliersoftware, die es erlaubt eigene Modelle zu entwerfen und Simulationen durchzuführen. Dort finden sich auch viele bereits implementierte Modelle, die frei genutzt werden können. Suchen Sie nach dem Mammoths Game. Nutzen Sie für die folgenden Aufgaben eine simple oder die unten verlinkte Version.
 
 * Stellen Sie die Geburten- und Sterberate so, wie im analogen Spiel ein.
 Lassen sich die analogen Ergebnisse reproduzieren?
