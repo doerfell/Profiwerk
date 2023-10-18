@@ -26,7 +26,7 @@ baseurl: "/Profiwerk3/"
 
 
 ##### Title ###################################################################
-title: digitales Modellieren
+title: ProfiWerk
 name: &name "Profiwerk3" # &name is a YAML anchor which can be *referenced later
 
 description: >- # this means to ignore newlines until next item
@@ -111,7 +111,7 @@ defaults:
       path: ""
       type: unit00
     values:
-      category: "Workshop"
+      category: "Seminar"
       tags: "Unit 00"
       layout: single
       sidebar:
