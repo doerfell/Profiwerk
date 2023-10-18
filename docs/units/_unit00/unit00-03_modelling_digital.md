@@ -1,47 +1,12 @@
 ---
-title: Das Mammutspiel - digital
+title: Das System
 header:
   image: "/assets/images/00-unit-splash.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 ---
 
-## Vom Wirkungsdiagramm zum systemdynamischen Modell
-Die Entwicklung der Herdengröße wird durch Feedbacks oder Wirkungskopplungen bestimmt. So erhöhen mehr Mammuts die Anzahl an Geburten, allerdings reduzieren mehr tote Mammuts die Anzahl der Mammuts und damit auch die Todeszahlen.
-
-  <img src="../assets/images/Feedbackloop.png">
-
-Die Modellierung der Herdenentwicklung als Wirkungsdiagramm ist die Grundlage für eine digitale systemdynamische Modellierung. Aus diesem wird im nächsten Schritt ein Flussdiagramm entwickelt, das dann implementiert wird. Wir springen heute direkt zur erfolgreichen Implementation. 
-
-### Insight Maker
-[Insight Maker](https://insightmaker.com/) ist eine Modelliersoftware, die es erlaubt eigene Modelle zu entwerfen und Simulationen durchzuführen. Dort finden sich auch viele bereits implementierte Modelle, die frei genutzt werden können. Suchen Sie nach dem Mammoths Game. Nutzen Sie für die folgenden Aufgaben eine simple oder die unten verlinkte Version.
-
-* Stellen Sie die Geburten- und Sterberate so, wie im analogen Spiel ein.
-Lassen sich die analogen Ergebnisse reproduzieren?
-* Überprüfen Sie nun Ihre Hypothese zu stabilen Bedingungen. Wie müssen die Raten eingestellt sein, damit die Population stabil bleibt? Lassen sich die Ergebnisse reproduzieren, d.h. wiederholt erzeugen?
-* Diskutieren Sie etwaige Gründe für ein Abweichen der vom Modell generierten Daten von Ihrer Hypothese mit Nachbarn/innen.
-* Diskutieren Sie mit Nachbar/innen, was die gewonnenen Erkenntnisse dazu beitragen, das Aussterben der Mammuts zu verstehen. Was erklärt das Modell nicht?
-* Welches prognostische Potenzial hat das Modell für gegenwärtige Entwicklungen?
- {: .notice--info}
- 
-Für diese Aufgabe sollten Sie sich 15 Minuten Zeit nehmen.
-{: .notice--success} 
-
-Für den Unterricht sind die Aufgaben in einem [Arbeitsblatt]({{ site.baseurl }}/assets/scripts/Das Mammutspiel in der Simulation mit Insight Maker.pdf){:target="_blank"} integriert.
-
-Sie können das Model auch verändern: Wirkungspfeile hinzufügen oder entfernen und selbst rekonstruieren. Dazu müssen Sie auf *Clone Insight* gehen und sich kostenfreie mit einer E-Mail-Adresse registrieren. 
-
-
-## Deutsche Version
-Es kann auch mit dieser deutschen Version gearbeitet werden. Für bessere Performanz oben im Fenster auf *Full Screen Insight* klicken.
-<iframe src="https://insightmaker.com/insight/7GjbYKkATFtF9ekSXNeyAj/embed?topBar=1&sideBar=1&zoom=1" title="Embedded model" width="800" height="600"></iframe>
-
-
-
-## Zusatzmaterial 
-[Systemdynamische Modellierung](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) - Eine kurze Einführung (englisch). 
-
-Ausführlichere Infos zu verschiedener Software findet sich am Ende dieses Kurses. 
-
+Laut Bildungsstandards soll der Raum im Geographieunterricht als System modelliert werden. Die Modellierung von Systemen kann durch die Betrachtungsebenen Struktur, Funktion und Prozess systematisiert werden. 
+<!--more-->
 
 
 
