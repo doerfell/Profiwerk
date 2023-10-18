@@ -1,6 +1,12 @@
 
 # /_data/authors.yml
 
+- doerfel:
+  name             : "Leoni Dörfel"
+  avatar           : "/assets/images/doerfel.png"
+  email            : "leoni.doerfel@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/staff-info?dn=flybxcsb9u"
+
 - ammoneit:
   name             : "Rieke Ammoneit"
   avatar           : "/assets/images/ammoneit.jpg"
