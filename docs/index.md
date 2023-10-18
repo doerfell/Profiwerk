@@ -1,5 +1,5 @@
 ---
-title: Digitales Modellieren
+title: Profiwerk
 layout: splash
 date: '2018-02-06 13:00:00 +0100'
 header:
@@ -10,9 +10,9 @@ header:
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
   cta_url: "/units.html"
-excerpt: Ein Einstieg in die dei digitale Modellierung im (Biologie-) Unterricht.
+excerpt: Praxismodul
 feature_row_intro:
-- excerpt: Teil von [#MKP]((https://www.ldm.uni-kiel.de/de/mkp-medienkompetenz-in-der-praxis)){:target="_blank"} 
+- excerpt: Im [Lehramtstudium an der UMR]((https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie)){:target="_blank"} 
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
