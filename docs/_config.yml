@@ -22,12 +22,12 @@
 
 # Serve on GitHub
 url: https://ammrie.github.io
-baseurl: "/digitalesModellieren/"
+baseurl: "/Profiwerk3/"
 
 
 ##### Title ###################################################################
 title: digitales Modellieren
-name: &name "digitales Modellieren" # &name is a YAML anchor which can be *referenced later
+name: &name "Profiwerk3" # &name is a YAML anchor which can be *referenced later
 
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource
@@ -149,7 +149,7 @@ plugins:
 # Handling Reading
 encoding: UTF-8
 
-repository: ammrie/digitalesModellieren
+repository: ammrie/Profiwerk3
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
