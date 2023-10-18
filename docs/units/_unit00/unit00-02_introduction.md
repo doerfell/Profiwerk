@@ -2,12 +2,11 @@
 title: Was ist Geographie?
 toc: true
 header:
-  image: "/assets/images/00-unit-splash.jpg"
+  image: "/assets/images/Geographie.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
 ---
 
 Nachdem Sie sich mit Ihrer persönlichen Motivation Geographielehrkaft zu werden auseinandergesetzt haben, stellen wir uns nun gemeinsam der Frage: Was ist Geographie? D.h. wir setzen uns mit der Fachlichkeit der Geographie zunächst in der Übersicht auseinander.
-
 <!--more-->
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/environmentalinformatics-marburg/29395927104/in/album-72157633683022206/" title="Tag-Cloud Wikipedia Geographiedidaktik"><img src="https://live.staticflickr.com/8418/29395927104_b22aaee582_c.jpg" width="792" height="506" alt="Tag-Cloud Wikipedia Geographiedidaktik"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
