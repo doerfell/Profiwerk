@@ -18,4 +18,3 @@ Lesen Sie bitte den Text von [Peter & Nauss](https://link.springer.com/chapter/1
 {: .notice--success}
 
 
-Notieren Sie bitte [hier](https://cloud.rz.uni-kiel.de/index.php/s/3EerzNeQicjc3cT) die Ergebnisse oder Inhalte Ihrer Diskussion. 
