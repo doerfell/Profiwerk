@@ -9,7 +9,8 @@ header:
 Willkommen im Profwerk! In dieser ersten Sitzung reflektiren Sie Ihre Motivation Geographielehrkraft zu werden und steigen in das Modul ein. 
 <!--more-->
 
-{% include image url="/assets/images/Modulplan.png" %}
+<img src="../assets/images/Modulplan.png">
+
 
 
 Bis zum nächsten Mal:
