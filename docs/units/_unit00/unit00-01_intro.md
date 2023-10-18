@@ -2,7 +2,7 @@
 title: Einstieg
 toc: true
 header:
-  image: "/assets/images/Marburg.jpg"
+  image: "/assets/images/Marburgk.jpg"
   caption: 'Photo: [**Environmental Informatics**](https://www.flickr.com/photos/environmentalinformatics-marburg/29395927104/in/album-72157633683022206/)'
 ---
 
