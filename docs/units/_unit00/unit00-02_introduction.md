@@ -2,7 +2,7 @@
 title: Was ist Geographie?
 toc: true
 header:
-  image: "/assets/images/Geographie.jpg"
+  image: "/assets/images/Geographiek.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'  
 ---
 
