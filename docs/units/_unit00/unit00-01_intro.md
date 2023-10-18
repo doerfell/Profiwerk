@@ -2,8 +2,8 @@
 title: Einstieg
 toc: true
 header:
-  image: "/assets/images/title-splash.jpg"
-  caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
+  image: "/assets/images/Marburg.jpg"
+  caption: 'Photo: [**Environmental Informatics**](https://www.flickr.com/photos/environmentalinformatics-marburg/29395927104/in/album-72157633683022206/)'
 ---
 
 Willkommen im Profwerk! In dieser ersten Sitzung reflektiren Sie Ihre Motivation Geographielehrkraft zu werden und steigen in das Modul ein. 
