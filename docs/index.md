@@ -21,23 +21,42 @@ feature_row_ilos:
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
-Herzlich willkommen! Auf dieser Homepage wird in das digitale Modellieren im (Biologie-) Unterricht eingeführt. Sie wurde zur Begleitung eines Workshops in der Reihe [Medienkompetenz zwischen Theorie und Praxis](https://www.ldm.uni-kiel.de/de/mkp-medienkompetenz-in-der-praxis) in Kooperation von CAU Kiel und dem IQSH eingerichtet, kann aber auch unabhängig davon genutzt werden. Es kann sein, dass die Seite im Laufe der Zeit zur Nutzung für Fortbildungen ausgebaut wird und umstrukturiert wird. Grundsätzlich bleibt sie online frei zugänglich und ist auch nach dem Workshop nutzbar.
+Herzlich willkommen im Profiwerk!
+Hier sollen Sie die Bedeutung fachwissenschaftlicher Leitideen sowie fachlicher Methoden zur Erkenntnisgewinnung als Grundlage für professions- und bildungstheoretisch
+fundiertes Handeln in der fachlichen Bildung reflektieren und so das gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess Aufgaben überführen. 
 
 Mit einem Klick auf "zum Kursinhalt" gehts zum Inhalt. 
 {: .notice--success}
 
+
 ## Allgemeines 
-Diese Angebot soll
-* das Potenzial von Simulationsmodellen im naturwissenschaftlichen Unterricht aufzeigen,
-* einen ersten Kontakt mit systemdynamischer Modellierung ermöglichen,
-* Wissen über freie Software und Ressourcen vermitteln,
-* Spaß am Ausprobieren bereiten 
+Der Kurs besteht aus einem Seminar während des Semesters in dem Sie sich mit geographischen Leitideeden auseinandersetzen und fachdidaktische Konzepte zur Analyse und Rekonstruktion geographischer Inhalte erarbeiten. Der für die Schulpraxis relevante Fokus liegt hier auf dem Anfertigen einer Sachanalyse. 
+Anschließend werden Sie an drei Blocktagen Unterricht konzipieren.
 
-## Fortbildungen 
-Ab Anfang nächsten Jahres soll ein Fortbildungsangebot zum digitalen Modellieren im Biologieunterricht geschaffen werden. Geplant ist ein Angebot, das drei Workshops in Präsenz umfasst und durch digitale Ressourcen unterstützt wird. In der Fortbildung sollen die Grundlagen der systemdynamischen Modellierung und der digitale Implementierung gelegt werden - dies umfasst auch eine Einführung in entsprechende Software, außerdem wird die unterrichtliche Umsetzung fokussiert und im professionellen Austausch entwickelt. Bei Interesse von ganzen Fachschaften, kommen wir gerne an Schulen in Schleswig-Holstein, sodass Sie nicht nach Kiel reisen müssen. Auch bei Interesse an digitalen Angeboten können Sie gerne Kontakt mir mit aufnehmen.
+## Ziele
+Am Ende dieses Moduls können Sie
+* die Bedeutung von Basiskonzepten als Grundlage für das Handeln in der fachlichen Bildung zu kennen und zu reflektieren sowie
+* die Komplexität von geographischen Themen im Unterricht bewusst zu reduzieren und dies als Grundlage für die Unterrichtsplanung nutzen zu können (Praktikum!) 
+* Konzeptionell geographische Denkweisen zu verstehen 
+* das damit gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess von Lehrgegenständen zu überführen
 
-## Kontakt
-Bei inhaltlichen Nachfragen oder Anregungen und bei Interesse zu Fortbildungsangboten freue ich mich über Kontaktaufnahme per Mail.
+
+## Kursmerkmale
+6 ECTS im Umfang als Präsenzkurs, der Anwesenheit voraussetzt, sowohl während des Semesters als auch während der Blocktage.
+Vor- und Nachbereiteitung des Seminars inklusive Studienleistung sollten insgesamt 90 h umfassen.
+Die Vorbereitung der Prüfungsleistung sollte weitere 30 h umfassen. 
+
+## Teilnahmevoraussetzungen
+* Mindesten 24 LP abgeschlossen
+* Einführung in die Fachdidaktik
+* Einführung in das Studium der Geographie für Studierende des Leramts
+* Praxis Start (EWL 3)
+* ProwiWerk im anderen Fach und ProfiPraxis (EWL P1) müssen parallel besucht werden
+
+## Studien- und Prüfungsleistung
+Die Studienleistung wird während der Blocktage erbacht
+Die Prüfungsleistung wird in Form eines schriftlichen Portfolios erbacht, das eine vollständige Sachanalyse umfasst.
+Die Studeinleitung soll und die Prüfungsleistung kann in Partnerarbeit erbacht werden.
  
 
 {% for author in site.data.authors %} 
