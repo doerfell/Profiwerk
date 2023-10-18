@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: 0.6
   overlay_image: "/assets/images/Profiwerk-splash.jpg"
-  caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
+  caption: 'Photo: [**EnvirInfo**](https://www.flickr.com/photos/environmentalinformatics-marburg/29801769580/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
   cta_url: "/units.html"
