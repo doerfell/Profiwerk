@@ -34,6 +34,7 @@ Es ist untergliedert in die Bereiche:
 * Gefahren und Nutzungspotenzial (z. B. pyroklastische Ströme, Lahare, Tsunamis, Geothermie, Landwirtschaft, Tourismus)
 * Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
 * Umgang mit dem Gefährdungspotenzial (z. B. Verbesserung der baulichen und der wissenschaftlichen Infrastruktur, Etablierung neuer Frühwarnsysteme, Raumplanungskonsequenzen)
+
 Diesen Themenbereich werden wir im Folgenden mit Hilfe verschiedener konzeptioneller Sichtweisen fachlich korrekt erschließen. 
 
 
