@@ -14,7 +14,7 @@ Offenbar ist der Raum ein zentraler Betrachtungsgegenstand der Geographie. In di
 Vorbereitend zu dieser Sitzung haben Sie die Texte von Köck, Werlen und Pohl gelesen, ihre Defintion von Raum und Argumentationsstruktur skizziert. Möglichweise haben Sie auch den komplexeren Text von Hard gelesen.
 {: .notice--success}
 
-In dieser Sitzung sollen Sie nun in Gruppen einen der drei Texte ausführlich besprechen und die Argumentation durchdringen. Anschließend werden Sie den jeweilgen Autor in einer Podiumsdiskussion vertreten. Da Ihnen auch die Texte der anderen Autoren bekannt sind, können Sie sich bereits auf deren Argumente vorbereiten. 
+In dieser Sitzung sollen Sie nun in Gruppen einen der drei Texte ausführlich besprechen und die Argumentation durchdringen. Anschließend werden Sie den jeweilgen Autor in einer Podiumsdiskussion vertreten. Da Ihnen auch die Texte der anderen Autoren bekannt sind, können Sie sich bereits auf deren Argumente vorbereiten. Eine Gruppe breitet sich darauf vor, die Podiumsdiskussion zu moderieren und formuliert dafür Fragen.
 Sie haben 30 Minuten Zeit. 
 
 Bis zum nächsten mal:
