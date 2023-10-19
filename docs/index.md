@@ -23,7 +23,7 @@ feature_row_ilos:
 {% include feature_row id="feature_row_intro" type="center" %}
 Herzlich willkommen im Profiwerk!
 Hier sollen Sie die Bedeutung fachwissenschaftlicher Leitideen sowie fachlicher Methoden zur Erkenntnisgewinnung als Grundlage für professions- und bildungstheoretisch
-fundiertes Handeln in der fachlichen Bildung reflektieren und so das gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess Aufgaben überführen. 
+fundiertes Handeln in der fachlichen Bildung reflektieren und so das gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess überführen. 
 
 Mit einem Klick auf "zum Kursinhalt" gehts zum Inhalt. 
 {: .notice--success}
