@@ -35,11 +35,13 @@ Sie können alleine oder in einer Kleingruppe arbeiten und haben 10 Minuten Zeit
 
 
 Zum nächsten Mal:
-Erarbeiten Sie sich bitte die Texte von Köck, Werlen und Pohl. Beantworten Sie für alle Autoren die folgende Frage:
+Erarbeiten Sie sich bitte die Texte von [Köck (2014)](https://ilias.uni-marburg.de/goto.php?target=file_3374935_download&client_id=UNIMR), [Werlen (1993)](https://www.erdkunde.uni-bonn.de/archive/1993/gibt-es-eine-geographie-ohne-raum-zum-verhaeltnis-von-traditioneller-geographie-und-zeitgenoessischen-gesellschaften) und [Pohl (1993)](https://www.erdkunde.uni-bonn.de/archive/1993/kann-es-eine-geographie-ohne-raum-geben-zum-verhaeltnis-von-theoriediskussion-und-disziplinpolitik). Beantworten Sie für alle Autoren die folgende Frage:
 * Wie definiert der Autor Raum?
 * Was ist die zentrale Argumentation des Artikels?
 Laden Sie Ihre Ausarbeitung im dafür vorgesehenen Ordner in Ilias hoch
 {: .notice--success}
+
+Der geographische Diskurs über Raum ist hervorragend in diesem umfassenden Beitrag von [Hard 2008 S.263ff.](https://www.degruyter.com/document/doi/10.1515/9783839406830/html) dargestellt. Dieser Text ist allen als zusätzliche Lektüre empfohlen -jetzt oder in den Semesterferien. 
 
 
 
