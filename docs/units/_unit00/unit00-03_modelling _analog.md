@@ -30,7 +30,7 @@ Ziel dieses Moduls ist es eine Sachanalyse anzufertig. Dabei ist die fachliche R
 ## Erdbeben, Vulkanismus, Tsunami – Leben in Risikogebieten?
 Als inhaltenlichen Bereich dient uns das Thema E.5 aus dem [hessischen Kerncurriculum für die gymnasiale Oberstufe](https://kultusministerium.hessen.de/sites/kultusministerium.hessen.de/files/2023-02/kcgo-ek.pdf).
 Es ist untergliedert in die Bereiche:
-* naturgeographische Grundlagen: Risikogebiete für Erdbeben, Vulkane und Tsunamis (globale Ebene) und Theorie der Plattentektonik anhand geotektonischer Karten (globale und regionale Ebene)
+* naturgeographische Grundlagen: Risikogebiete für Erdbeben, Vulkane und Tsunamis (globale Ebene) und Theorie der Plattentektonik (u.a. anhand geotektonischer Karten (globale und regionale Ebene))
 * Gefahren und Nutzungspotenzial (z. B. pyroklastische Ströme, Lahare, Tsunamis, Geothermie, Landwirtschaft, Tourismus)
 * Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
 * Umgang mit dem Gefährdungspotenzial (z. B. Verbesserung der baulichen und der wissenschaftlichen Infrastruktur, Etablierung neuer Frühwarnsysteme, Raumplanungskonsequenzen)
@@ -39,7 +39,7 @@ Diesen Themenbereich werden wir im Folgenden mit Hilfe verschiedener konzeptione
 
 
 Bis zum nächsten mal:
-Sie wurden in der Sitzung einem der vier Raumkonzepte zugeteilt. Sie sollen nun eine Leitfrage entwickeln, die es ermöglicht *Gefahren und Nutzungspotenzial* unter Ihrer Raumperspektive zu erschließen. Recherchieren Sie die dafür benötigte Literatur und stellen Sie sie in einem Literaturverzeichnis zusammen. Achten Sie darauf, dass sie mindestens vier wissenschaftliche Quellen verwenden. Skizzieren Sie Ihre Raumanalyse in Stichworten oder einem Schaubild. Laden Sie Ihre Arbeit in den Ilias-Ornder. 
+Sie wurden in der Sitzung einem der vier Raumkonzepte zugeteilt. Sie sollen nun eine Leitfrage entwickeln, die es ermöglicht *naturgeographische Grundlage* unter Ihrer Raumperspektive zu erschließen. Recherchieren Sie die dafür benötigte Literatur und stellen Sie sie in einem Literaturverzeichnis zusammen. Achten Sie darauf, dass sie mindestens vier wissenschaftliche Quellen verwenden. Skizzieren Sie Ihre Raumanalyse in Stichworten oder einem Schaubild. Laden Sie Ihre Arbeit in den Ilias-Ordner. 
 {: .notice--success}
 
 Wenn Sie für die Hausaufgabe zunächst weitere Einblicke in die praktische Arbeit mit den Raumkonzepten gewinnen wollen, sind Ihnen diese Texte empfohlen: [Laub (2023)](https://link.springer.com/chapter/10.1007/978-3-662-66634-0_2) mit Fachübergriff Sport, [Fögele und Mehren (2017)](https://ilias.uni-marburg.de/goto.php?target=file_3374930_download&client_id=UNIMR) für Geographielehrkräfte.  
