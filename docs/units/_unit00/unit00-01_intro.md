@@ -6,7 +6,8 @@ header:
   caption: 'Photo: [**Environmental Informatics**](https://www.flickr.com/photos/environmentalinformatics-marburg/29395927104/in/album-72157633683022206/)'
 ---
 
-Willkommen im Profiwerk! In dieser ersten Sitzung reflektieren Sie Ihre Motivation Geographielehrkraft zu werden und steigen in das Modul ein. 
+Willkommen im Profiwerk! 
+In dieser ersten Sitzung reflektieren Sie Ihre Motivation Geographielehrkraft zu werden und steigen in das Modul ein. 
 <!--more-->
 
 <img src="../assets/images/Modulplan.png">
