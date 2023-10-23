@@ -56,7 +56,7 @@ Die Vorbereitung der Prüfungsleistung sollte weitere 30 h umfassen.
 ## Studien- und Prüfungsleistung
 Die Studienleistung wird während der Blocktage erbacht
 Die Prüfungsleistung wird in Form eines schriftlichen Portfolios erbacht, das eine vollständige Sachanalyse umfasst.
-Die Studeinleitung soll und die Prüfungsleistung kann in Partnerarbeit erbacht werden.
+Die Studienleistung soll und die Prüfungsleistung kann in Partnerarbeit erbacht werden.
  
 
 {% for author in site.data.authors %} 
