@@ -35,10 +35,10 @@ Anschließend werden Sie an drei Blocktagen Unterricht konzipieren.
 
 ## Ziele
 Am Ende dieses Moduls können Sie
-* die Bedeutung von Basiskonzepten als Grundlage für das Handeln in der fachlichen Bildung zu kennen und zu reflektieren sowie
-* die Komplexität von geographischen Themen im Unterricht bewusst zu reduzieren und dies als Grundlage für die Unterrichtsplanung nutzen zu können (Praktikum!) 
-* Konzeptionell geographische Denkweisen zu verstehen 
-* das damit gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess von Lehrgegenständen zu überführen
+* die Bedeutung von Basiskonzepten als Grundlage für das Handeln in der fachlichen Bildung reflektieren sowie
+* die Komplexität von geographischen Themen im Unterricht bewusst reduzieren und dies als Grundlage für die Unterrichtsplanung nutzen (Praktikum!) 
+* konzeptionell geographische Denkweisen verstehen 
+* das damit gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess von Lehrgegenständen überführen
 
 
 ## Kursmerkmale
