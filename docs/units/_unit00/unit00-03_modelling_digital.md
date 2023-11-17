@@ -8,5 +8,11 @@ header:
 Laut Bildungsstandards soll der Raum im Geographieunterricht als System modelliert werden. Die Modellierung von Systemen kann durch die Betrachtungsebenen Struktur, Funktion und Prozess systematisiert werden. 
 <!--more-->
 
+Vorbereitend auf die Sitzung haben Sie die Texte von Ammoneit et al. (2019), Schuler et al. (2018) und Bette & Fögele (2015) gelesen und exerpiert, was den jeweiligen Autor*innen für das Systemverständnis als bedeutsam erscheint.
 
+In Kleingruppen (3 Personen) sollen Sie nun ein Schaubild erstellen in dem Sie darstellen, wie die Ansätze zueinander stehen. Sie sollen anhand dieses Schaubilds auch erklären was Kernanliegen der Autor*innen ist und wie sie das System konzeptionalisieren. 
+
+Bewerten Sie anschließend Stärken und Schwächen der unterschiedlichen Zugänge. Welche unterrichtlichen Ziele lassen sich auf welche Weise am besten erreichen. 
+
+Bis zum nächsten mal sollen Sie das Thema: mit den Basiskonzepten Struktur, Funktion, Prozess erschließen. Entwickeln Sie hierfür bitte eine Leitfrage. Diese Leitfrage kann sich, muss sich aber nicht, auf eines der Konzepte fokussieren. Stellen Sie Literatur zusammen, die eine Bearbeitung Ihrer Leitfrage ermöglicht und skizzieren Sie Ihre Sachanalyse in Stichworten oder einem Schaubild. 
 
