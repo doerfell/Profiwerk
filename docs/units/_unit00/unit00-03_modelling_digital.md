@@ -14,8 +14,7 @@ In Kleingruppen (3 Personen) sollen Sie nun ein Schaubild erstellen in dem Sie d
 
 Bewerten Sie anschließend Stärken und Schwächen der unterschiedlichen Zugänge. Welche unterrichtlichen Ziele lassen sich auf welche Weise am besten erreichen. 
 
-Bis zum nächsten mal sollen Sie eines der Themen: 
-* Gefahren und Nutzungspotenzial (z. B. pyroklastische Ströme, Lahare, Tsunamis, Geothermie, Landwirtschaft, Tourismus)
+Bis zum nächsten mal sollen Sie das Thema: 
 * Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
 
 mit den Basiskonzepten Struktur, Funktion, Prozess erschließen.
