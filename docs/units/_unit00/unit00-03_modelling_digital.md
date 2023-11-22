@@ -16,7 +16,8 @@ Bewerten Sie anschließend Stärken und Schwächen der unterschiedlichen Zugäng
 
 Bis zum nächsten mal sollen Sie eines der Themen: 
 * Gefahren und Nutzungspotenzial (z. B. pyroklastische Ströme, Lahare, Tsunamis, Geothermie, Landwirtschaft, Tourismus)
-* Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme) mit den Basiskonzepten Struktur, Funktion, Prozess erschließen.
+* Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
+mit den Basiskonzepten Struktur, Funktion, Prozess erschließen.
 
 Entwickeln Sie hierfür bitte eine Leitfrage. Diese Leitfrage kann sich, muss sich aber nicht, auf eines der Konzepte fokussieren. Stellen Sie Literatur zusammen, die eine Bearbeitung Ihrer Leitfrage ermöglicht und skizzieren Sie Ihre Sachanalyse in Stichworten oder einem Schaubild. Laden Sie Ihre Bearbeitung bis Sonntagabend im Ilias hoch.
 
