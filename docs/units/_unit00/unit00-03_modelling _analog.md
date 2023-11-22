@@ -50,7 +50,7 @@ Stellen Sie Ihren Kommiliton/innen, die unter dem gleichen Raumkonzept gearbeite
 Anschließend stellen Sie sich die Arbeit in gemischten Gruppen vor. Diskutieren Sie welche Perspektiven und Fragestellungen sich unter welchem Raumkonzepte am besten bearbeiten lassen. 
 
 Bis zum nächsten mal:
-Lesen Sie bitte den Text von Ammoneit et al. (2019) und [Bette & Fögele(2015](https://ilias.uni-marburg.de/goto.php?target=file_3374928_download&client_id=UNIMR). Worin unterscheiden sich die Ansätze System zu konzeptionalisieren? Exerpieren Sie was die jeweiligen Autor*innen für das Systemverständnis für bedeutsam halten.
+Lesen Sie bitte den Text von Ammoneit et al. (2019) und [Bette & Fögele(2015)](https://ilias.uni-marburg.de/goto.php?target=file_3374928_download&client_id=UNIMR). Worin unterscheiden sich die Ansätze System zu konzeptionalisieren? Exerpieren Sie was die jeweiligen Autor*innen für das Systemverständnis für bedeutsam halten.
 
 
 
