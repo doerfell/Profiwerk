@@ -19,5 +19,5 @@ Bis zum nächsten mal sollen Sie das Thema:
 
 mit den Basiskonzepten Struktur, Funktion, Prozess erschließen.
 
-Entwickeln Sie hierfür bitte eine Leitfrage. Diese Leitfrage kann sich, muss sich aber nicht, auf eines der Konzepte fokussieren. Stellen Sie Literatur zusammen, die eine Bearbeitung Ihrer Leitfrage ermöglicht und skizzieren Sie Ihre Sachanalyse in Stichworten oder einem Schaubild. Laden Sie Ihre Bearbeitung bis Sonntagabend im Ilias hoch.
+Entwickeln Sie eine Idee, sich das Thema aus dieser Perspektive zu erschließen und fertigen Sie eine fachliche Literaturrecherche an. Spezifizieren Sie den Gegenstand und entwickeln dazu eine Leitfrage. Diese Leitfrage kann sich, muss sich aber nicht, auf eines der Konzepte fokussieren. Skizzieren Sie Ihre Sachanalyse in Stichworten oder einem Schaubild. Laden Sie Ihre Bearbeitung bis Sonntagabend im Ilias hoch.
 
