@@ -10,9 +10,9 @@ Laut Bildungsstandards soll der Raum im Geographieunterricht als System modellie
 
 Vorbereitend auf die Sitzung haben Sie die Texte von Ammoneit et al. (2019) und Bette & Fögele (2015) gelesen und exerpiert, was den jeweiligen Autor*innen für das Systemverständnis als bedeutsam erscheint.
 
-In Kleingruppen (3 Personen) sollen Sie nun ein Schaubild erstellen in dem Sie darstellen, wie die Ansätze zueinander stehen. Sie sollen anhand dieses Schaubilds auch erklären was Kernanliegen der Autor*innen ist und wie sie das System konzeptionalisieren. 
+In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisieren. 
 
-Bewerten Sie anschließend Stärken und Schwächen der unterschiedlichen Zugänge. Welche unterrichtlichen Ziele lassen sich auf welche Weise am besten erreichen. 
+Bewerten Sie anschließend Stärken und Schwächen der unterschiedlichen Zugänge. 
 
 Bis zum nächsten mal sollen Sie das Thema: 
 * Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
