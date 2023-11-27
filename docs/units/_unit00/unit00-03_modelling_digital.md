@@ -14,6 +14,8 @@ In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. W
 
 Nachdem Sie sich mit theoretischen Hintergründe zu den Basiskonzepten Struktur, Funktion und Prozess auseinandergesetzt haben, sollen Sie nun in eine erste Anwendung gehen. 
 Für das Thema 
+* Gefahren und Nutzungspotenzial (z. B. pyroklastische Ströme, Lahare, Tsunamis, Geothermie, Landwirtschaft, Tourismus)
+Sollen Sie die Basiskonzepte nutzen, um eine wissenschaftlichen Modellierung zu rekonstruierten.   
 
 Bis zum nächsten mal sollen Sie das Thema: 
 * Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
