@@ -10,7 +10,10 @@ Laut Bildungsstandards soll der Raum im Geographieunterricht als System modellie
 
 Vorbereitend auf die Sitzung haben Sie die Texte von Ammoneit et al. (2019) und Bette & Fögele (2015) gelesen und exerpiert, was den jeweiligen Autor*innen für das Systemverständnis als bedeutsam erscheint.
 
-In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisieren. Welche Stärken und Schwächen sehen Sie. 
+In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisieren? Welche Stärken und Schwächen sehen Sie?
+
+Nachdem Sie sich mit theoretischen Hintergründe zu den Basiskonzepten Struktur, Funktion und Prozess auseinandergesetzt haben, sollen Sie nun in eine erste Anwendung gehen. 
+Für das Thema 
 
 Bis zum nächsten mal sollen Sie das Thema: 
 * Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
