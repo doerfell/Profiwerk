@@ -25,6 +25,6 @@ Erfassen Sie ausgehend dieses Kontextes exemplarisch:
 * und was passiert im Falle eines Erdbebens? (Prozess) Es wird also vorgegeben, dass bzw. welche Veränderung (Erbeben) eintritt.
  
 Das Vorgehen ist als iterativer und nicht als linerarer Prozess zu verstehen. 
-Fertigen Sie eine fachliche Literaturrecherche an, um eine Sachanalyse ausgehend dess Basiskonzeptes Sturktur, Funktion, Prozess zu skizzieren. 
+Fertigen Sie eine fachliche Literaturrecherche an, um eine Sachanalyse ausgehend des Basiskonzeptes Sturktur, Funktion, Prozess zu skizzieren. 
 Laden Sie Ihre Bearbeitung bis Sonntagabend im Ilias hoch.
 
