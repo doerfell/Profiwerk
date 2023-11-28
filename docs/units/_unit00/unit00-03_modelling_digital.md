@@ -13,14 +13,18 @@ Vorbereitend auf die Sitzung haben Sie die Texte von Ammoneit et al. (2019) und 
 In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisieren? Welche Stärken und Schwächen sehen Sie?
 
 Nachdem Sie sich mit theoretischen Hintergründe zu den Basiskonzepten Struktur, Funktion und Prozess auseinandergesetzt haben, sollen Sie nun in eine erste Anwendung gehen. 
-Für das Thema 
-* Gefahren und Nutzungspotenzial (z. B. pyroklastische Ströme, Lahare, Tsunamis, Geothermie, Landwirtschaft, Tourismus)
-Sollen Sie die Basiskonzepte nutzen, um eine wissenschaftlichen Modellierung zu rekonstruierten.   
-
-Bis zum nächsten mal sollen Sie das Thema: 
+Sie sollen das Thema:
 * Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
+mit den Basiskonzepten Sturktur, Funktion, Prozess erschließen und anhand dieser "Strukturierungshilfe" eine Sachanalyse skizieren.
 
-mit den Basiskonzepten Struktur, Funktion, Prozess erschließen.
-
-Entwickeln Sie eine Idee, sich das Thema aus dieser Perspektive zu erschließen und fertigen Sie eine fachliche Literaturrecherche an. Spezifizieren Sie den Gegenstand und entwickeln dazu eine Leitfrage. Diese Leitfrage kann sich, muss sich aber nicht, auf eines der Konzepte fokussieren. Skizzieren Sie Ihre Sachanalyse in Stichworten oder einem Schaubild. Laden Sie Ihre Bearbeitung bis Sonntagabend im Ilias hoch.
+Der Kontext wird in diesem Falle vorgegeben: Es geht um das Eintreten eines Erdbebens. Sie sollen nun ausgehend von diesem Kontext für ein weniger und ein höher entwickeltes Land Struktur, Funktion und Prozess abstrahieren. Dazu:
+* Wählen Sie eins der Unterthemen in der Klammer (z.B. Besiedlungsstruktur)
+Erfassen Sie ausgehend dieses Kontextes exemplarisch:
+* Wo kommt das jeweilige Element, wie in den beiden Ländern vor? (Sturktur) 
+* Was ist die Funktion dieser Verteilung? (Funktion)
+* und was passiert im Falle eines Erdbebens? (Prozess) Es wird also vorgegeben, dass bzw. welche Veränderung (Erbeben) eintritt.
+ 
+Das Vorgehen ist als iterativer und nicht als linerarer Prozess zu verstehen. 
+Fertigen Sie eine fachliche Literaturrecherche an, um eine Sachanalyse ausgehend dess Basiskonzeptes Sturktur, Funktion, Prozess zu skizzieren. 
+Laden Sie Ihre Bearbeitung bis Sonntagabend im Ilias hoch.
 
