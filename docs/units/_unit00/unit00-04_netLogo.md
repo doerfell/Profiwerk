@@ -11,10 +11,12 @@ Das Basiskonzept Scale bzw. Maßstabsebenen kann als eine Form einer geographisc
 
 Das Basiskonzept Scale erfüllt zudem einen Zweck für das in der Einheit zuvor kennengelernte Basiskonzept System mit den Teilkomponenten Struktur, Funktion, Prozess: Der Geographie erklärt die jeweiligen Systemkomponenten auf den verschiedenen Maßstabsebenen. In Bezug zur skizzierten Sachanalyse zum Thema „Auswirkungen von Erdbeben in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand“ sollen sie die Auswirkungen nun auf den verschiedenen Maßstabsebenen recherchieren. 
 
-Lesen Sie hierzu für weitere Informationen optional den Basistext von Anthes et al. 2021 (Kapitel 2-4) und Uhlenwinkel 2013 (Absatz zu scale). Auf Grundlage ihrer fachlichen Literaturrecherche unter Strukturierung des Basiskonzeptes Struktur, Funktion, Prozess überlegen Sie nun konkrete Auswirkungen des Ereignisses (Erdbeben in ihren beiden Raumbeispielen) auf regionaler, nationaler und globaler Maßstabsebene, indem Sie ein Brainstorming schriftlich festhalten.  
+Lesen Sie hierzu für weitere Informationen optional den Basistext von [Anthes et al. (2021)] (https://ilias.uni-marburg.de/goto.php?target=file_3448028_download&client_id=UNIMR) (Kapitel 2-4) und [Uhlenwinkel (2013)] (https://ilias.uni-marburg.de/goto.php?target=file_3374929_download&client_id=UNIMR) (Absatz zu scale). Auf Grundlage ihrer fachlichen Literaturrecherche unter Strukturierung des Basiskonzeptes Struktur, Funktion, Prozess überlegen Sie nun konkrete Auswirkungen des Ereignisses (Erdbeben in ihren beiden Raumbeispielen) auf regionaler, nationaler und globaler Maßstabsebene, indem Sie ein Brainstorming schriftlich festhalten.  
+{:.notice--success}
 
 Auf Grundlage ihres Brainstormings zu den Auswirkungen benennen Sie als Ausgang der nächsten Übung und Anwendung des Basiskonzeptes Scale konkret das Gefährdungspotenzial auf regionaler, nationaler und globaler Maßstabsebene.
 
 Zur fachlichen Erschließung des Sub-Themas „Umgang mit dem Gefährdungspotenzial“ (KC Oberstufe Erdkunde Hessen) sollen Sie auf Grundlage ihres Brainstormings eine fachliche Literaturrecherche zum Umgang mit dem Gefährdungspotenzial ihrer skizzierten Erdbeben-Szenarien anfertigen und dies schriftlich in einer Sachanalyse festhalten (Skizze). 
+{:.notice--success}
 
-title: Sachanalyse
+# Sachanalyse
