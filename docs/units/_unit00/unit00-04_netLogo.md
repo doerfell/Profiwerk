@@ -26,7 +26,7 @@ sollen Sie auf Grundlage ihres Brainstormings eine fachliche Literaturrecherche 
 
 Nun sollen Sie die erste Verschriftlichung einer Sachanalyse anfertigen. Ihnen ist dabei völlig freigestellt, ob Sie die Sachanalyse mit Hilfe eines oder mehrerer Basiskonzepte strukturieren. Beachten Sie, dass bei Sachanalyse genauso wie in Hausarbeiten zitiert wird. Insgesamt sollen Sie für die Sachanalyse mindestens 5 wissenschaftliche Quellen verwendet haben. 
 
-Ihnen ist auch freigestellt, welches Sub-Thema Sie vom übergeordneten Thema der Oberstufe E.5: Erdbeben, Vulkanismus, Tsunami – Leben in Risikogebieten? fachlich aufarbeiten. Entscheiden Sie sich im Sinne der Komplexitätsreduktion sinnvoll bei dieser Auswahl. 
+Ihnen ist auch freigestellt, welches Sub-Thema Sie vom übergeordneten Thema der Oberstufe E.5: _Erdbeben, Vulkanismus, Tsunami – Leben in Risikogebieten?_ fachlich aufarbeiten. Entscheiden Sie sich im Sinne der Komplexitätsreduktion sinnvoll bei dieser Auswahl. 
 
 Zudem soll die Sachanalyse eine zentrale Leitfrage beinhalten, die auf die fachlich aufbereiteten Inhalte anschließt bzw. diese begründet. Denken Sie daher an den iterativen Prozess und reflektieren Sie die Stringenz ihrer Leitfrage und der Inhalte stets.
 
