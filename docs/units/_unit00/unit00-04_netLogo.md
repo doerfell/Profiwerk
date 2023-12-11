@@ -17,7 +17,9 @@ Lesen Sie hierzu für weitere Informationen optional den Basistext von [Anthes e
 Auf Grundlage ihres Brainstormings zu den Auswirkungen benennen Sie als Ausgang der nächsten Übung und Anwendung des Basiskonzeptes Scale konkret das Gefährdungspotenzial auf regionaler, nationaler und globaler Maßstabsebene.
 
 Zur fachlichen Erschließung des Sub-Themas 4 (E5): 
-*  Umgang mit dem Gefährdungspotenzial [KC Oberstufe Erdkunde Hessen](https://kultusministerium.hessen.de/sites/kultusministerium.hessen.de/files/2023-02/kcgo-ek.pdf) 
+{:.notice--sucess}
+*  Umgang mit dem Gefährdungspotenzial [KC Oberstufe Erdkunde Hessen](https://kultusministerium.hessen.de/sites/kultusministerium.hessen.de/files/2023-02/kcgo-ek.pdf)
+{:.notice-success}
 sollen Sie auf Grundlage ihres Brainstormings eine fachliche Literaturrecherche zum Umgang mit dem Gefährdungspotenzial ihrer skizzierten Erdbeben-Szenarien anfertigen und dies schriftlich in einer Sachanalyse festhalten (Skizze). 
 {:.notice--success}
 
