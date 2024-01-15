@@ -8,7 +8,7 @@ header:
 Im Geographieunterricht blicken wir in die Welt. Doch welche kulturelle Brille tragen wir dabei? Die Critical Multicultural Education befasst sich mit diversitätssensiblem Unterricht, der keine Vorurteile aufbaut. 
 Der Geographie-Unterricht birgt das Potenzial, nicht nur geografisches Wissen zu vermitteln, sondern auch einen Raum zu schaffen, der Diversität betont und stereotype Annahmen hinterfragt. Diese Einführung soll verdeutlichen, warum und wie kritisch-multikulturelle Perspektiven im Geographie-Unterricht integriert werden können.
 
-Kritisch-multikulturelle Bildung: Konzepte und Grundprinzipien 
+# Kritisch-multikulturelle Bildung: Konzepte und Grundprinzipien 
 
 Im Zentrum stehen Critical Multicultural Education und Culturally Responsive Pedagogy. Ersteres geht über traditionelle Multikulturverständnisse hinaus, indem es aktiv gegen Vorurteile vorgeht. Letzteres betont die Anerkennung verschiedener Lernstile und kultureller Hintergründe. Im Rahmen des Seminars beschäftigen wir uns schwerpunktartig mit Critical Multicultural Education.
 
