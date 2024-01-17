@@ -4,6 +4,7 @@ header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
+# Sitzung 11-14: Geographische Zugänge 4
 
 Im Geographieunterricht blicken wir in die Welt. Doch welche kulturelle Brille tragen wir dabei? Die Critical Multicultural Education befasst sich mit diversitätssensiblem Unterricht, der keine Vorurteile aufbaut. 
 Der Geographie-Unterricht birgt das Potenzial, nicht nur geografisches Wissen zu vermitteln, sondern auch einen Raum zu schaffen, der Diversität betont und stereotype Annahmen hinterfragt. Diese Einführung soll verdeutlichen, warum und wie kritisch-multikulturelle Perspektiven im Geographie-Unterricht integriert werden können.
