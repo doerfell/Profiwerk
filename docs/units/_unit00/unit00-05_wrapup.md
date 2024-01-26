@@ -8,7 +8,7 @@ header:
 Diversität kann als mehrdimensional definiert werden und berücksichtigt unterschiedlichste Merkmale
 von Individuen und Gesellschaften (s. Abb. 1). Das Fach Geographie hat ein großes Potenzial, diversitätssensibel zu unterrichten, da Diversität komplexe Interaktionen in Räumen auf verschiedenen Skalen anspricht. In Zeiten von Globalisierung und Migrationsprozessen werden die Schülerinnen und Schüler immer diverser. Die vielfältige Lebenswirklichkeit der Schülerinnen und Schüler muss sich in der Bildung angemessen widerspiegeln. So fordern sowohl die Bildungsstandards als auch Curricula eine adäquate Darstellung von Vielfalt, z.B. durch den Abbau von Stereotypen, die mit unterschiedlichen Kulturen verbunden sind. Aus diesem Grund ist es notwendig, Kompetenzen wie kritisches reflektieren und denken zu fördern und eine hohe Sensibilität gegenüber Diversität und Stereotpyisierungen zu erlangen. Die größte Schwierigkeit liegt dabei in der Bewusstmachung von Stereotypisierungen. Im Fach Geographie sind wir aufgrund verschiedener Fachgegenstände häufig mit Stereotypen konfrontiert, die nicht zuletzt auch durch das Schulbuch reproduziert werden und betont erneut die Wichtigkeit des kritischen Reflektierens. 
 
-  image: "docs/assets/images/Div_mo_e_fin.png"
+  img. "../assets/images/Div_mo_e_fin.png"
   caption: 'Photo: [**Diversity dimensions**](https://doi.org/10.3112/erdkunde.2023.03.02)'
   
 
@@ -37,3 +37,4 @@ Bildung sollte also nicht nur kulturelle Vielfalt anerkennen, sondern auch dazu 
      
 Laden Sie ihre Abgaben im dafür vorgesehenen Ordner auf Ilias bis spätestens 21.01. 23:55 hoch.
 Hinweis: Alle die nicht da waren, wählen eine der Leitfragen aus. 
+{:.notice--success}
