@@ -29,6 +29,7 @@ Bildung sollte also nicht nur kulturelle Vielfalt anerkennen, sondern auch dazu 
 
 # Aufgabe:
 * Prüfen Sie Ihre eigene Skizze (Sachanalyse) vor dem Hintergrund der thematisierten Aspekte zum Thema: Diversität & Stereotypen. Stellen Sie die fachlichen Inhalte dahingehend angemessen dar?
+{:.notice--success}
 
 * Lesen Sie den Basistext von [Usher (2023)](https://ilias.uni-marburg.de/goto.php?target=file_3448031_download&client_id=UNIMR) (min. bis S. 31) und bearbeiten Sie die Ihnen zugeteilte Leitfrage in Vorbereitung auf die nächste Sitzung:
   1. Was ist die Bedeutung des Geographieunterrichts für den Diskurs Critical Multicultural Education (CMCE)?
