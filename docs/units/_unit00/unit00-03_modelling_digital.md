@@ -9,6 +9,7 @@ Laut Bildungsstandards soll der Raum im Geographieunterricht als System modellie
 <!--more-->
 
 Vorbereitend auf die Sitzung haben Sie die Texte von Ammoneit et al. (2019) und Bette & Fögele (2015) gelesen und exerpiert, was den jeweiligen Autor*innen für das Systemverständnis als bedeutsam erscheint.
+{:.notice--success}
 
 In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisieren? Welche Stärken und Schwächen sehen Sie?
 
@@ -27,4 +28,5 @@ Erfassen Sie ausgehend dieses Kontextes exemplarisch:
 Das Vorgehen ist als iterativer und nicht als linerarer Prozess zu verstehen. 
 Fertigen Sie eine fachliche Literaturrecherche an, um eine Sachanalyse ausgehend des Basiskonzeptes Sturktur, Funktion, Prozess zu skizzieren. 
 Laden Sie Ihre Bearbeitung bis Sonntagabend im Ilias hoch.
+{:.notice--success}
 
