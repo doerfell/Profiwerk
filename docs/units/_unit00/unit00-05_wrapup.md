@@ -1,5 +1,5 @@
 ---
-title: Diversität, Stereotype & Critical Multicultural Education
+title: Diversität im Geographieunterricht
 header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
