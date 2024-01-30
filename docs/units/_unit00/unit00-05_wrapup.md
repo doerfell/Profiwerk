@@ -10,7 +10,7 @@ von Individuen und Gesellschaften (s. Abb. 1). Das Fach Geographie hat ein groß
 
  <img src="../assets/images/Div_mo_e_fin.png">
 
-  caption: 'Photo: [**Diversity dimensions**](https://doi.org/10.3112/erdkunde.2023.03.02)'
+Photo: [**Diversity dimensions**](https://doi.org/10.3112/erdkunde.2023.03.02)'
   
 
 # Kritisch-multikulturelle Bildung: Konzepte und Grundprinzipien 
