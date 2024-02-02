@@ -19,7 +19,7 @@ Worum geht es in diesem Modul?
 
 
 Bis zum nächsten Mal:
-Lesen Sie bitte den Text von [Peter & Nauss](https://link.springer.com/chapter/10.1007/978-3-658-29194-5_6) und exerpieren drei Leitideen. Das Exerpt laden Sie im dafür vorgesehenen Ordner im Ilias hoch. 
+Lesen Sie bitte den Text von [Peter & Nauss](https://link.springer.com/chapter/10.1007/978-3-658-29194-5_6) und exerpieren drei Leitideen. Das Exerpt laden Sie im dafür vorgesehenen Ordner im Ilias bis spätestens Sonntag unter folgender Bezeichnung hoch: Nachname_A(Nummer) - z.B.: DörfelA01. Bezeichnen Sie bitte im Verlauf des Moduls alle Ihre Abgaben unter dieser Bezeichnung.  
 {: .notice--success}
 
 
