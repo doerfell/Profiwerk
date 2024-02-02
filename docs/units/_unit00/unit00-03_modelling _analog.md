@@ -21,10 +21,7 @@ Bis zum nächsten mal:
 Lesen Sie bitte den Text zu den Raumkonzepten von [Wardenga (2002)](https://ilias.uni-marburg.de/goto.php?target=file_3374931_download&client_id=UNIMR). Ordnen Sie die Raumkonzepte der zuvor diskutierten Autoren in Wardengas Raumkonzepte ein. 
 {: .notice--success}
 
-# Sitzung 4
-Diskutieren Sie Ihre Einordnung in Dreiergruppen. Bereiten Sie sich darauf vor die Raumkonzepte von Wardenga kurz vorzustellen. 
-
-## Sachanalyse
+# Sitzung 4 - die Sachanalyse 
 Ziel dieses Moduls ist es eine Sachanalyse anzufertig. Dabei ist die fachliche Richtigkeit entscheidend. Aus der Sachanalyse gehen die Lernziele des Unterrichts hervor. Außerdem ist sie die Grundlage der im Unterricht erarbeiteten Inhalte. Alles, was im Unterricht thematisiert wird, sollte in der Sachanlyse fachlich analysiert worden sein. Dabei ist es wichtig, dass Sie sich beim Schreiben stark auf die tatsächlich relevanten Aspekte fokussieren. Ansonsten passiert es schnell, dass die Analyse auf inhaltliche Oberflächlichkeiten beschränkt bleibt, während die tatsächlichen fachlichen Herausforderungen keine Beachtung finden. Diese Art fokussierte inhaltlicher Aufarbeitung muss geübt werden. Im Seminar wird die fachliche Analyse immer durch die didaktischen Erschließungskonzepte strukturiert, damit Fokussierung und inhaltliche Tiefe erreicht werden.  
 
 Diskutieren Sie folgende Aufgaben in 3er Gruppen und halten ihre Überlegungen schriftlich fest: 
@@ -34,15 +31,17 @@ Diskutieren Sie folgende Aufgaben in 3er Gruppen und halten ihre Überlegungen s
 * Welchen Umfang hat eine Sachanalyse?
 {: .notice--success}
 
+Diskutieren Sie Ihre Einordnung in Dreiergruppen. Bereiten Sie sich darauf vor die Raumkonzepte von Wardenga kurz vorzustellen. 
+
+Das Verfassen von Sachanalyse aus unterschiedlichen geographischen Perspektiven muss geübt werden. Im Laufe des Seminars werden wir folgendes Thema aus dem KCO Hessen (2022) nach und nach fachlich aus verschiedenen Perspektiven erschließten: 
+
 ## Erdbeben, Vulkanismus, Tsunami – Leben in Risikogebieten?
 Als inhaltenlichen Bereich dient uns das Thema E.5 aus dem [hessischen Kerncurriculum für die gymnasiale Oberstufe](https://kultusministerium.hessen.de/sites/kultusministerium.hessen.de/files/2023-02/kcgo-ek.pdf).
 Es ist untergliedert in die Bereiche:
 * naturgeographische Grundlagen: Risikogebiete für Erdbeben, Vulkane und Tsunamis (globale Ebene) und Theorie der Plattentektonik (u.a. anhand geotektonischer Karten (globale und regionale Ebene))
 * Gefahren und Nutzungspotenzial (z. B. pyroklastische Ströme, Lahare, Tsunamis, Geothermie, Landwirtschaft, Tourismus)
 * Auswirkungen in Abhängigkeit vom sozio-ökonomischen Entwicklungsstand (z. B. Besiedlungsstruktur, Bevölkerungsentwicklung, Bausubstanz, medizinische Versorgung, Bildung, wissenschaftliche Infrastruktur, Frühwarnsysteme)
-* Umgang mit dem Gefährdungspotenzial (z. B. Verbesserung der baulichen und der wissenschaftlichen Infrastruktur, Etablierung neuer Frühwarnsysteme, Raumplanungskonsequenzen)
-
-Diesen Themenbereich werden wir im Folgenden mit Hilfe verschiedener konzeptioneller Sichtweisen fachlich korrekt erschließen. 
+* Umgang mit dem Gefährdungspotenzial (z. B. Verbesserung der baulichen und der wissenschaftlichen Infrastruktur, Etablierung neuer Frühwarnsysteme, Raumplanungskonsequenzen) 
 
 
 Bis zum nächsten mal:
