@@ -34,3 +34,20 @@ Zudem soll die Sachanalyse eine zentrale Leitfrage beinhalten, die auf die fachl
 
 Diese Abgabe soll alleine angefertigt werden. Laden Sie diese Verschriftlichung bis spätestens 05.01. 23:55 im dafür vorgesehenen Ordner auf Ilias hoch. 
 {:.notice--success}
+
+# Reflexion von Sachanalysen
+Übung: Reflektieren Sie in Zweiergruppen jeweils zwei Sachanalysen auf die folgenden Aspekte: Fachlichkeit, Basiskonzepte und Leitfragen in unterschiedlichen Arbeitsphasen. Halten Sie Ihre Reflexionspunkte auf Reflexionsbögen zu je einer Sachanalyse fest. 
+
+Phase 1: Reflexion von Fachlichkeit (20 Minuten)
+* Diskutieren Sie die Tiefe und Genauigkeit der Fachlichkeit
+* Wurden die fachlichen Informationen des Lehrgegenstandes geographisch angemessen ausgearbeitet?
+* Steht der räumliche Aspekt im Zentrum der Sachanalyse?
+
+Phase 2: Reflexion von Basiskonzepten und Leitfragen (30 Minuten)
+* Sind die Basiskonzepte klar erkennbar und sinnvoll angewendet?
+* Ergibt sich daraus ein roter Faden, indem die Basiskonzepte sinnvoll aufeinander aufbauen?
+* Ist die Leitfrage lohnenswert und greift im besten Fall eine Problemstellugn auf?
+* Sind alle wichtigen Aspekt zur Beantwortung der Leitfrage in der Sachanalyse fachlich angemessen ausgearbeitet und kommuniziert?
+
+Phase 3: Einarbeitung des Feedbacks 
+Sie erhalten nun Ihr Feedback und können bei Bedarf Rückfragen stellen. Arbeiten Sie das Feedback ein. 
