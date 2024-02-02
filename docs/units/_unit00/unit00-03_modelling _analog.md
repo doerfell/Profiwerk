@@ -45,7 +45,7 @@ Es ist untergliedert in die Bereiche:
 
 
 Bis zum nächsten mal:
-Sie wurden in der Sitzung einem der vier Raumkonzepte zugeteilt. Sie sollen nun eine Leitfrage entwickeln, die es ermöglicht *naturgeographische Grundlage* unter Ihrer Raumperspektive zu erschließen. Recherchieren Sie die dafür benötigte Literatur und stellen Sie sie in einem Literaturverzeichnis zusammen. Achten Sie darauf, dass sie mindestens vier wissenschaftliche Quellen verwenden. Skizzieren Sie Ihre Raumanalyse in Stichworten oder einem Schaubild. Laden Sie Ihre Arbeit in den Ilias-Ordner. 
+Sie wurden in der Sitzung einem der vier Raumkonzepte zugeteilt. Sie sollen nun ein Brainstorming anstellen, wie das Thema *naturgeographische Grundlage* unter Ihrer Raumperspektive  erschlossen wreden kann. Was ist spannend und lohnenswert an der Sache? Recherchieren Sie Literatur und spezifizieren Sie auf dieser Grundlage eine Ihrer Ideen. Stellen Sie danach ein Literaturverzeichnis zusammen. Achten Sie darauf, dass sie mindestens vier wissenschaftliche Quellen verwenden. Skizzieren Sie Ihre Raumanalyse in Stichworten oder einem Schaubild. Laden Sie Ihre Arbeit bis spätestens Sonntag in dem dafür vorgesehenen Ilias-Ordner hoch. 
 {: .notice--success}
 
 Wenn Sie für die Hausaufgabe zunächst weitere Einblicke in die praktische Arbeit mit den Raumkonzepten gewinnen wollen, sind Ihnen diese Texte empfohlen: [Laub (2023)](https://link.springer.com/chapter/10.1007/978-3-662-66634-0_2) mit Fachübergriff Sport, [Fögele und Mehren (2017)](https://ilias.uni-marburg.de/goto.php?target=file_3374930_download&client_id=UNIMR) für Geographielehrkräfte.  
