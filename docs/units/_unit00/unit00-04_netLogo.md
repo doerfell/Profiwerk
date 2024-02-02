@@ -4,7 +4,7 @@ header:
   image: "/assets/images/greedy-splash.png"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
-
+# Sitzung 8
 Das System und die jeweiligen Grenzen beziehen sich auf eine Maßstabsebene. Doch auch die Maßstabsebene zu verändern und Systeme in ihrer Einbettung zu betrachten, ist Gegenstand der Geographie. Diese Einheit widmet sich daraum dem Basiskonzept **Scale**.
 <!--more-->
 Das Basiskonzept Scale bzw. Maßstabsebenen kann als eine Form einer geographischen Skala bezeichnet werden, die das räumliche Ausmaß eines Phänomens beschreibt. Das Basiskonzept wird auch in den DGfG Bildungsstandards hervorgehoben. Dort wird die zentrale Kompetenz des Fachwissens als „Fähigkeit, Räume auf verschiedenen Maßstabsebenen als natur- und humangeographische Systeme zu erfassen und Wechselbeziehungen zwischen Mensch und Umwelt analysieren zu können“ beschrieben. Im Geographieunterricht analysieren die Schülerinnen und Schüler demnach Räume auf der Erde auf unterschiedlichen Maßstabsebenen, z.B. den Heimatraum, Deutschland, Europa und ausgewählte außereuropäische Regionen, unter verschiedenen Frage- bzw. Problemstellungen. Die Bildungsstandards benennen die lokale, regionale, nationale, internationale und globale Maßstabsebene.
@@ -24,7 +24,7 @@ Zur fachlichen Erschließung des Sub-Themas 4 (E5):
 sollen Sie auf Grundlage ihres Brainstormings eine fachliche Literaturrecherche zum Umgang mit dem Gefährdungspotenzial ihrer skizzierten Erdbeben-Szenarien anfertigen und dies schriftlich in einer Sachanalyse festhalten (Skizze). 
 
 
-# Sachanalyse
+# Verschiftlichung einer Sachanalyse
 
 Nun sollen Sie die erste Verschriftlichung einer Sachanalyse anfertigen. Ihnen ist dabei völlig freigestellt, ob Sie die Sachanalyse mit Hilfe eines oder mehrerer Basiskonzepte strukturieren. Beachten Sie, dass bei Sachanalyse genauso wie in Hausarbeiten zitiert wird. Insgesamt sollen Sie für die Sachanalyse mindestens 5 wissenschaftliche Quellen verwendet haben. 
 
