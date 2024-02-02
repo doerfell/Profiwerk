@@ -14,8 +14,8 @@ In dieser ersten Sitzung reflektieren Sie Ihre Motivation Geographielehrkraft zu
 
 Worum geht es in diesem Modul?
 * Sie werden sich mit Fragen über den Kern der Geographie auseinandersetzen,
-* indem Sie verschiedene geographische Zugänge kennenlernen werden, darunter Raumkonzepte und Basiskonzepte als Strukturierungshilfen für die Unterrichtsplanung,
-* unter dieser Berücksichtigung sowie der fachlichen Literaturrecherche lernen Sie Sachanalysen zu verfassen.
+* indem Sie verschiedene geographische Zugänge kennenlernen werden, darunter Raumkonzepte und Basiskonzepte als Strukturierungshilfen für die Unterrichtsplanung.
+* Unter dieser Berücksichtigung sowie der fachlichen Literaturrecherche lernen Sie, Sachanalysen zu verfassen.
 
 
 Bis zum nächsten Mal:
