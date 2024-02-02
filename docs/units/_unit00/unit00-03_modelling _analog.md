@@ -27,6 +27,13 @@ Diskutieren Sie Ihre Einordnung in Dreiergruppen. Bereiten Sie sich darauf vor d
 ## Sachanalyse
 Ziel dieses Moduls ist es eine Sachanalyse anzufertig. Dabei ist die fachliche Richtigkeit entscheidend. Aus der Sachanalyse gehen die Lernziele des Unterrichts hervor. Außerdem ist sie die Grundlage der im Unterricht erarbeiteten Inhalte. Alles, was im Unterricht thematisiert wird, sollte in der Sachanlyse fachlich analysiert worden sein. Dabei ist es wichtig, dass Sie sich beim Schreiben stark auf die tatsächlich relevanten Aspekte fokussieren. Ansonsten passiert es schnell, dass die Analyse auf inhaltliche Oberflächlichkeiten beschränkt bleibt, während die tatsächlichen fachlichen Herausforderungen keine Beachtung finden. Diese Art fokussierte inhaltlicher Aufarbeitung muss geübt werden. Im Seminar wird die fachliche Analyse immer durch die didaktischen Erschließungskonzepte strukturiert, damit Fokussierung und inhaltliche Tiefe erreicht werden.  
 
+Diskutieren Sie folgende Aufgaben in 3er Gruppen und halten ihre Überlegungen schriftlich fest: 
+* Was ist eine Sachanalyse?
+* Welche Bedeutung hat eine Sachanalyse?
+* Wie kann eine Sachanalyse strukturiert werden?
+* Welchen Umfang hat eine Sachanalyse?
+{: .notice--success}
+
 ## Erdbeben, Vulkanismus, Tsunami – Leben in Risikogebieten?
 Als inhaltenlichen Bereich dient uns das Thema E.5 aus dem [hessischen Kerncurriculum für die gymnasiale Oberstufe](https://kultusministerium.hessen.de/sites/kultusministerium.hessen.de/files/2023-02/kcgo-ek.pdf).
 Es ist untergliedert in die Bereiche:
