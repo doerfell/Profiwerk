@@ -4,6 +4,9 @@ header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
+# Sitzung 11 & 12
+Als Lehrkräfte sollten wir stets sensibel mit Inhalten umgehen und kritisch hinterfragen. Zur Vorerbeitung dazu beschäftigen wir uns zunächst mit dem Thema Diversität und Stereotypen. 
+
 # Diversität & Stereotype
 Diversität kann als mehrdimensional definiert werden und berücksichtigt unterschiedlichste Merkmale
 von Individuen und Gesellschaften (s. Abb. 1). Das Fach Geographie hat ein großes Potenzial, diversitätssensibel zu unterrichten, da Diversität komplexe Interaktionen in Räumen auf verschiedenen Skalen anspricht. In Zeiten von Globalisierung und Migrationsprozessen werden die Schülerinnen und Schüler immer diverser. Die vielfältige Lebenswirklichkeit der Schülerinnen und Schüler muss sich in der Bildung angemessen widerspiegeln. So fordern sowohl die Bildungsstandards als auch Curricula eine adäquate Darstellung von Vielfalt, z.B. durch den Abbau von Stereotypen, die mit unterschiedlichen Kulturen verbunden sind. Aus diesem Grund ist es notwendig, Kompetenzen wie kritisches reflektieren und denken zu fördern und eine hohe Sensibilität gegenüber Diversität und Stereotpyisierungen zu erlangen. Die größte Schwierigkeit liegt dabei in der Bewusstmachung von Stereotypisierungen. Im Fach Geographie sind wir aufgrund verschiedener Fachgegenstände häufig mit Stereotypen konfrontiert, die nicht zuletzt auch durch das Schulbuch reproduziert werden und betont erneut die Wichtigkeit des kritischen Reflektierens. 
