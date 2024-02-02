@@ -14,7 +14,7 @@ von Individuen und Gesellschaften (s. Abb. 1). Das Fach Geographie hat ein groß
  <img src="../assets/images/Div_mo_e_fin.png">
 
 Photo: [**Diversity dimensions**](https://doi.org/10.3112/erdkunde.2023.03.02)'
-  
+Aus: Dörfel et al. 2023  
 
 # Kritisch-multikulturelle Bildung: Konzepte und Grundprinzipien 
 Im Geographieunterricht blicken wir in die Welt. Doch welche kulturelle Brille tragen wir dabei? Die Critical Multicultural Education befasst sich mit diversitätssensiblem Unterricht, der keine Vorurteile aufbaut. 
