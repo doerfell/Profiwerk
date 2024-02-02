@@ -1,10 +1,13 @@
 ---
-title: Sitzung 8
+title: Scale
 header:
   image: "/assets/images/greedy-splash.png"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
-# Scale
+# Sitzung 8
+Nun werden wir uns auf Grundlage der fachlichen Erarbeitung des "Systems" mit Auswirkungen auf verschiedenen Maßstabsebenen (Scale) auseinandersetzen. 
+
+# Scale - Maßstabsebenen 
 Das System und die jeweiligen Grenzen beziehen sich auf eine Maßstabsebene. Doch auch die Maßstabsebene zu verändern und Systeme in ihrer Einbettung zu betrachten, ist Gegenstand der Geographie. Diese Einheit widmet sich daraum dem Basiskonzept **Scale**.
 <!--more-->
 Das Basiskonzept Scale bzw. Maßstabsebenen kann als eine Form einer geographischen Skala bezeichnet werden, die das räumliche Ausmaß eines Phänomens beschreibt. Das Basiskonzept wird auch in den DGfG Bildungsstandards hervorgehoben. Dort wird die zentrale Kompetenz des Fachwissens als „Fähigkeit, Räume auf verschiedenen Maßstabsebenen als natur- und humangeographische Systeme zu erfassen und Wechselbeziehungen zwischen Mensch und Umwelt analysieren zu können“ beschrieben. Im Geographieunterricht analysieren die Schülerinnen und Schüler demnach Räume auf der Erde auf unterschiedlichen Maßstabsebenen, z.B. den Heimatraum, Deutschland, Europa und ausgewählte außereuropäische Regionen, unter verschiedenen Frage- bzw. Problemstellungen. Die Bildungsstandards benennen die lokale, regionale, nationale, internationale und globale Maßstabsebene.
