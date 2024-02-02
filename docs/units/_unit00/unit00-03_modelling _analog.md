@@ -51,6 +51,10 @@ Sie wurden in der Sitzung einem der vier Raumkonzepte zugeteilt. Sie sollen nun 
 Wenn Sie für die Hausaufgabe zunächst weitere Einblicke in die praktische Arbeit mit den Raumkonzepten gewinnen wollen, sind Ihnen diese Texte empfohlen: [Laub (2023)](https://link.springer.com/chapter/10.1007/978-3-662-66634-0_2) mit Fachübergriff Sport, [Fögele und Mehren (2017)](https://ilias.uni-marburg.de/goto.php?target=file_3374930_download&client_id=UNIMR) für Geographielehrkräfte.  
 
 # Sitzung 5
+# Raumkonzepte nach Wardenga:
+
+<img src="../assets/images/Wardenga_4Felder.png">
+
 Stellen Sie Ihren Kommiliton/innen, die unter dem gleichen Raumkonzept gearbeitet haben, Ihre Leitfrage und Skizze vor. Diskutieren Sie die Angemessenenheit und Richtigkeit der Fragen und Skizzen. Halten Sie dann Herausforderungen und Potenziale fest, die sich aus der Arbeit mit Ihrem Raumkonzept für die fachliche Analyse ergeben haben. 
 
 Anschließend stellen Sie sich die Arbeit in gemischten Gruppen vor. Diskutieren Sie welche Perspektiven und Fragestellungen sich unter welchem Raumkonzepte am besten bearbeiten lassen. 
