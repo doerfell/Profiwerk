@@ -12,7 +12,7 @@ Vorbereitend auf die Sitzung haben Sie die Texte von Ammoneit et al. (2019) und 
 
 # Sitzung 6 & 7
 
-In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisieren? Welche Stärken und Schwächen sehen Sie?
+In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisiert? Welche Stärken und Schwächen sehen Sie?
 
 Nachdem Sie sich mit theoretischen Hintergründe zu den Basiskonzepten Struktur, Funktion und Prozess auseinandergesetzt haben, sollen Sie nun in eine erste Anwendung gehen. 
 Sie sollen das Thema:
@@ -28,6 +28,6 @@ Erfassen Sie ausgehend dieses Kontextes exemplarisch:
  
 Das Vorgehen ist als iterativer und nicht als linerarer Prozess zu verstehen. 
 Fertigen Sie eine fachliche Literaturrecherche an, um eine Sachanalyse ausgehend des Basiskonzeptes Sturktur, Funktion, Prozess zu skizzieren. 
-Laden Sie Ihre Bearbeitung bis Sonntagabend im Ilias hoch.
+Laden Sie Ihre Bearbeitung bis spätestens Sonntag 23:55 Uhr im dafür vorgesehenen Ilias-Ordner hoch.
 {:.notice--success}
 
