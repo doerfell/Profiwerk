@@ -14,6 +14,8 @@ Nachdem Sie sich mit Ihrer persönlichen Motivation Geographielehrkaft zu werden
 Vorbereitend zu dieser Sitzung haben Sie den Text von [Peter & Nauss](https://link.springer.com/chapter/10.1007/978-3-658-29194-5_6) gelesen und daraus drei Leitideen exerpiert.  
 {: .notice--success}
 
+# Sitzung 2
+
 ## Die Fachlichkeit der Geographie
 In Dreiergruppen sollen Sie zunächst Folgendes diskutieren:
 *  Welches Spannungsfeld besteht zwischen Schul- und Universitätsgeographie?
