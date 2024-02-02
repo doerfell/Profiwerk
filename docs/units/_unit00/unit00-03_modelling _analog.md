@@ -10,7 +10,7 @@ Offenbar ist der Raum ein zentraler Betrachtungsgegenstand der Geographie. In di
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/environmentalinformatics-marburg/30053438721/" title="Tag-Cloud Wikipedia-Stichwort Geographischer Raum"><img src="https://live.staticflickr.com/8598/30053438721_a243eb803a_c.jpg" width="792" height="506" alt="Tag-Cloud Wikipedia-Stichwort Geographischer Raum"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-# Sitzung 1
+# Sitzung 3
 Vorbereitend zu dieser Sitzung haben Sie die Texte von Köck, Werlen und Pohl gelesen, ihre Defintion von Raum und Argumentationsstruktur skizziert. Möglichweise haben Sie auch den komplexeren Text von Hard gelesen.
 {: .notice--success}
 
@@ -21,7 +21,7 @@ Bis zum nächsten mal:
 Lesen Sie bitte den Text zu den Raumkonzepten von [Wardenga (2002)](https://ilias.uni-marburg.de/goto.php?target=file_3374931_download&client_id=UNIMR). Ordnen Sie die Raumkonzepte der zuvor diskutierten Autoren in Wardengas Raumkonzepte ein. 
 {: .notice--success}
 
-# Sitzung 2
+# Sitzung 4
 Diskutieren Sie Ihre Einordnung in Dreiergruppen. Bereiten Sie sich darauf vor die Raumkonzepte von Wardenga kurz vorzustellen. 
 
 ## Sachanalyse
@@ -44,7 +44,7 @@ Sie wurden in der Sitzung einem der vier Raumkonzepte zugeteilt. Sie sollen nun 
 
 Wenn Sie für die Hausaufgabe zunächst weitere Einblicke in die praktische Arbeit mit den Raumkonzepten gewinnen wollen, sind Ihnen diese Texte empfohlen: [Laub (2023)](https://link.springer.com/chapter/10.1007/978-3-662-66634-0_2) mit Fachübergriff Sport, [Fögele und Mehren (2017)](https://ilias.uni-marburg.de/goto.php?target=file_3374930_download&client_id=UNIMR) für Geographielehrkräfte.  
 
-# Sitzung 3
+# Sitzung 5
 Stellen Sie Ihren Kommiliton/innen, die unter dem gleichen Raumkonzept gearbeitet haben, Ihre Leitfrage und Skizze vor. Diskutieren Sie die Angemessenenheit und Richtigkeit der Fragen und Skizzen. Halten Sie dann Herausforderungen und Potenziale fest, die sich aus der Arbeit mit Ihrem Raumkonzept für die fachliche Analyse ergeben haben. 
 
 Anschließend stellen Sie sich die Arbeit in gemischten Gruppen vor. Diskutieren Sie welche Perspektiven und Fragestellungen sich unter welchem Raumkonzepte am besten bearbeiten lassen. 
