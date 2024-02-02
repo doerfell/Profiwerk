@@ -1,10 +1,10 @@
 ---
-title: Diversität im Geographieunterricht
+title: Sitzung 11 & 12
 header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
-# Sitzung 11 & 12
+# Diversität im Geographieunterricht
 Als Lehrkräfte sollten wir stets sensibel mit Inhalten umgehen und kritisch hinterfragen. Zur Vorerbeitung dazu beschäftigen wir uns zunächst mit dem Thema Diversität und Stereotypen. 
 
 # Diversität & Stereotype
