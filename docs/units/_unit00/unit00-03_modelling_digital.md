@@ -4,12 +4,13 @@ header:
   image: "/assets/images/00-unit-splash.jpg"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 ---
-# Sitzung 6 & 7
 Laut Bildungsstandards soll der Raum im Geographieunterricht als System modelliert werden. Die Modellierung von Systemen kann durch die Betrachtungsebenen Struktur, Funktion und Prozess systematisiert werden. 
 <!--more-->
 
 Vorbereitend auf die Sitzung haben Sie die Texte von Ammoneit et al. (2019) und Bette & Fögele (2015) gelesen und exerpiert, was den jeweiligen Autor*innen für das Systemverständnis als bedeutsam erscheint.
 {:.notice--success}
+
+# Sitzung 6 & 7
 
 In Kleingruppen (3 Personen) sollen Sie sich nun Ihre Hausaufgaben vorstellen. Wie wird System konzeptionalisieren? Welche Stärken und Schwächen sehen Sie?
 
