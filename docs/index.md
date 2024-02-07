@@ -30,14 +30,14 @@ Mit einem Klick auf "zum Kursinhalt" gehts zum Inhalt.
 
 
 ## Allgemeines 
-Der Kurs besteht aus einem Seminar während des Semesters in dem Sie sich mit geographischen Leitideeden auseinandersetzen und fachdidaktische Konzepte zur Analyse und Rekonstruktion geographischer Inhalte erarbeiten. Der für die Schulpraxis relevante Fokus liegt hier auf dem Anfertigen einer Sachanalyse. 
+Der Kurs besteht aus einem Seminar während des Semesters in dem Sie sich mit geographischen Leitideen auseinandersetzen und fachdidaktische Konzepte zur Analyse und Rekonstruktion geographischer Inhalte erarbeiten. Der für die Schulpraxis relevante Fokus liegt hier auf dem Anfertigen einer Sachanalyse. 
 Anschließend werden Sie an drei Blocktagen Unterricht konzipieren.
 
 ## Ziele
 Am Ende dieses Moduls können Sie
 * die Bedeutung von Basiskonzepten als Grundlage für das Handeln in der fachlichen Bildung reflektieren sowie
-* die Komplexität von geographischen Themen im Unterricht bewusst reduzieren und dies als Grundlage für die Unterrichtsplanung nutzen (Praktikum!) 
-* konzeptionell geographische Denkweisen verstehen 
+* die Komplexität von geographischen Themen im Unterricht bewusst reduzieren und dies als Grundlage für die Unterrichtsplanung nutzen (Praktikum!), 
+* konzeptionell geographische Denkweisen verstehen und
 * das damit gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess von Lehrgegenständen überführen
 
 
@@ -51,12 +51,11 @@ Die Vorbereitung der Prüfungsleistung sollte weitere 30 h umfassen.
 * Einführung in die Fachdidaktik
 * Einführung in das Studium der Geographie für Studierende des Leramts
 * Praxis Start (EWL 3)
-* ProwiWerk im anderen Fach und ProfiPraxis (EWL P1) müssen parallel besucht werden
 
 ## Studien- und Prüfungsleistung
-Die Studienleistung wird während der Blocktage erbacht
-Die Prüfungsleistung wird in Form eines schriftlichen Portfolios erbacht, das eine vollständige Sachanalyse umfasst.
-Die Studienleistung soll und die Prüfungsleistung kann in Partnerarbeit erbacht werden.
+Die Studienleistung wird während der Blocktage erbracht.
+Die Prüfungsleistung wird in Form eines schriftlichen Portfolios erbracht, das eine vollständige Sachanalyse umfasst.
+
  
 
 {% for author in site.data.authors %} 
