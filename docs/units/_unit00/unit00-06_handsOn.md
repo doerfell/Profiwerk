@@ -1,5 +1,5 @@
 ---
-title: Leitfragen und Prüfungsleistung
+title: Hands-on & Leistungen
 header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
