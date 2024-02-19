@@ -30,8 +30,8 @@ Mit einem Klick auf "zum Kursinhalt" gehts zum Inhalt.
 
 
 ## Allgemeines 
-Der Kurs besteht aus einem Seminar während des Semesters in dem Sie sich mit geographischen Leitideen auseinandersetzen und fachdidaktische Konzepte zur Analyse und Rekonstruktion geographischer Inhalte erarbeiten. Der für die Schulpraxis relevante Fokus liegt hier auf dem Anfertigen einer Sachanalyse. 
-Anschließend werden Sie an drei Blocktagen Unterricht konzipieren.
+Der Kurs umfasst 4 SWS und besteht zum einen aus einem Seminar während des Semesters in dem Sie sich mit geographischen Leitideen auseinandersetzen und fachdidaktische Konzepte zur Analyse und Rekonstruktion geographischer Inhalte erarbeiten. Der für die Schulpraxis relevante Fokus liegt hier auf dem Anfertigen einer Sachanalyse. 
+Zum anderen werden Sie am Ende dieses semesterbegleitenden Kurses Zeit an drei Blocktagen auf Grundlage der Sachanalyse Unterricht konzipieren. 
 
 ## Ziele
 Am Ende dieses Moduls können Sie
