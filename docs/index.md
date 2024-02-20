@@ -54,7 +54,7 @@ Die Vorbereitung der Prüfungsleistung sollte weitere 30 h umfassen.
 
 ## Studien- und Prüfungsleistung
 Die Studienleistung wird während der Blocktage erbracht.
-Die Prüfungsleistung wird in Form eines schriftlichen Portfolios erbracht, das eine vollständige Sachanalyse umfasst.
+Die Prüfungsleistung wird in Form eines schriftlichen Portfolios semesterbegleitend durch 9 Abgaben erbracht. Die Verschriftlichung einer Sachanalyse (Abgabe 8) macht dabei 50% der Note der PL aus. Die anderen 50% verteilen sich gleichermaßen auf die anderen 8 Abgaben. Genauere Infos unter dem Reiter "Hands-on & Leistungen". 
 
  
 
