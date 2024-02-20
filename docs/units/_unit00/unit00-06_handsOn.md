@@ -20,19 +20,16 @@ Fokussierung von Inhalten:
 
 Die Leitfragen-Entwicklung es ist ein iterativer Prozess. Daher sollte die Leitfrage stets angepasst werden, sobald sich Veränderungen der Inhalte bei der Recherche etc. ergeben. So wird sichergestellt, dass Leitfrage & fachliche Literaturrecherche stets aufeinander abgestimmt sind. 
  
+## Peer-Review
+Wozu?
+Um die Fähigkeit zur kritischen Analyse und Beurteilung bestehender oder fremder Konzepte zu fördern. Dies gelingt durch den Vollzug eines Perspektivwechsels. 
 
-## Prüfungsleistung 
+Was ist wichtig?
+* angesichts fremder (und auch eigener) Arbeiten eine wertschätzende Haltung einnehmen
+* konsturktives Feedback: Objektiv urteilen und ausschließlich aus fachlicher, niemals aus persönlicher Perspektive
+* negative & positive Aspekte herausstellen und kommentieren: Immer ergänzt durch Erklärungen und auf Basis von Argumenten
+* im besten Fall mit Optimierungsvorschlägen
+So können Sie mit Hilfe von Kenntnissen und Kompetenzen ein konsturktives Review verfassen und später auch eine kritische Reflexion der eigenen Ideen vornehmen.  
 
-Laden Sie Ihre Prüfungsleitstung (Portfolio) pro Person unter folgender Bezeichnung: Nachname_Prüfungsleistung bis spätestens 31.03.2024 im dafür vorgesehenen Ilias-Ordner in einem Dokument hoch.
-Das Portfolio besteht aus den folgenden semesterbegleitenden Abgaben, wobei A08 (Sachanalyse) bereits 50% der Note der Prüfungsleistung ausmacht.
 
-* A01: Was ist Geographie? (Peter/ Nauss)
-* A02: Raumdefinitionen (Pohl/ Köck/ Werlen)
-* A03: Raumkonzepte nach Wardenga
-* A04: Sachanalyse (Skizze) nach Raumkonzepten zum Thema E.5
-* A05: Systemverständnis (Bette & Fögele / Ammoneit)
-* A06: Sachanalyse (Skizze) nach Struktur, Funktion, Prozess zum Thema E.5
-* A07: Basierend auf A06: Auswirkungen auf verschiedenen Scales
-* A08: Verschriftlichung Sachanalyse
-* A09: Critical Multicultural Education (Usher)
 
