@@ -1,5 +1,5 @@
 ---
-title: Hands-on & Leistungen
+title: Hands-on
 header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
