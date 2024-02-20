@@ -4,6 +4,7 @@ header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
+Hier finden Sie einige Hands-on, auf die Sie bei der Bearbeitung von Abgaben zurückgreifen können. 
 
 ## Leitfragenentwicklung 
 Eine Leitfrage zu formulieren ist schwierig und erfordert viel Übung. Folgende Aspekte können dabei helfen, zu verdeutlichen, was eine Leitfrage charakterisiert und nach welchen Aspekten Sie reflektiert werden können.
