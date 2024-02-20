@@ -4,7 +4,7 @@ header:
   image: "/assets/images/greedy-splash.png"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
-# Sitzung 8
+# Sitzung 8-10
 Nun werden wir uns auf Grundlage der fachlichen Erarbeitung des "Systems" mit Auswirkungen auf verschiedenen Maßstabsebenen (Scale) auseinandersetzen. 
 
 # Scale - Maßstabsebenen 
