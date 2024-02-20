@@ -24,7 +24,11 @@ Schulbücher sind nach wie vor das primäre Unterrichtsmedium an Deutschen Schul
 Wie können Schulbüchern bzw. andere Lehrmaterialien unter diesen Gesichtspunkten angemessen konzipiert sein? 
 
 Aufgabe: Sind die aktuellen Geographie-Schulbücher in Hessen angemessen konzipiert? 
-Bilden Sie Kleingruppen und betrachten Sie die Ihnen ausgeteilten Schulbücher unterschiedlicher Jahrgangsstufen. Werden Stereotypen reproduziert? Welche Botschaften werden dadurch vermittelt? Warum ist das kritisch? Welche Alternativen gäbe es? Gibt es Beispiele einer diversitätssensiblen Abbildung? Sie haben 25 Minuten Zeit, die Aufgaben zu bearbeiten. Halten Sie Ihre Ergebnisse schriftlich fest. {:.notice--success}
+Bilden Sie Kleingruppen und betrachten Sie die Ihnen ausgeteilten Schulbücher unterschiedlicher Jahrgangsstufen. 
+Werden Stereotypen reproduziert? Welche Botschaften werden dadurch vermittelt? Warum ist das kritisch? 
+Welche Alternativen gäbe es? 
+Gibt es Beispiele einer diversitätssensiblen Abbildung? 
+Sie haben 25 Minuten Zeit, die Aufgaben zu bearbeiten. Halten Sie Ihre Ergebnisse schriftlich fest. {:.notice--success}
 
 
 # Bis zum nächsten Mal..
@@ -56,5 +60,6 @@ Bildung sollte also nicht nur kulturelle Vielfalt anerkennen, sondern auch dazu 
 
 ## Umgang mit Stereotypen im Geographieunterricht 
 Eine Möglichkeit des Umgangs mit Stereotypen im Allgemeinen haben Sie nun kennengelernt: Das sogenannte Konzept  *Critical Multicultural Education*. 
-Überlegen Sie darüber hinaus weitere Möglichkeiten zum Umgang mit Stereotypen im Unterricht durch die Lehrkraft. Überlegen Sie dann  konkret für das Thema: *Vulnerabilität - Auswirkungen in Abhängigkeit vom sozioökonomischen Entwicklungsstand* Möglichkeiten einer diversitätssensiblen Umsetzung für den Unterricht, ohne Stereotypen zu reproduzieren. Sie haben dafür 20 Minuten Zeit. {:.notice--success}
+Überlegen Sie darüber hinaus weitere Möglichkeiten zum Umgang mit Stereotypen im Unterricht durch die Lehrkraft. 
+Überlegen Sie anschließend konkret für das Thema: *Vulnerabilität - Auswirkungen in Abhängigkeit vom sozioökonomischen Entwicklungsstand* Möglichkeiten einer diversitätssensiblen Umsetzung für den Unterricht, ohne Stereotypen zu reproduzieren. Sie haben dafür 20 Minuten Zeit. {:.notice--success}
 
