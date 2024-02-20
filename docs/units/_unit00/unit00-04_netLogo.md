@@ -49,8 +49,8 @@ Phase 1: Reflexion von Fachlichkeit (20 Minuten)
 Phase 2: Reflexion von Basiskonzepten und Leitfragen (30 Minuten)
 * Sind die Basiskonzepte klar erkennbar und sinnvoll angewendet?
 * Ergibt sich daraus ein roter Faden, indem die Basiskonzepte sinnvoll aufeinander aufbauen?
-* Ist die Leitfrage lohnenswert und greift im besten Fall eine Problemstellugn auf?
+* Ist die Leitfrage lohnenswert und greift im besten Fall eine Problemstellung auf?
 * Sind alle wichtigen Aspekt zur Beantwortung der Leitfrage in der Sachanalyse fachlich angemessen ausgearbeitet und kommuniziert?
 
 Phase 3: Einarbeitung des Feedbacks 
-Sie erhalten nun Ihr Feedback und können bei Bedarf Rückfragen stellen. Arbeiten Sie das Feedback ein. 
+Sie erhalten nun Ihr Feedback und können bei Bedarf Rückfragen stellen. Arbeiten Sie das Feedback in Ihre Sachanalysen ein. 
