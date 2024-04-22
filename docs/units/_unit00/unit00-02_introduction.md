@@ -37,7 +37,7 @@ Sie können alleine oder in einer Kleingruppe arbeiten und haben 10 Minuten Zeit
 
 
 Zum nächsten Mal:
-Erarbeiten Sie sich bitte die Texte von [Köck (2014)](https://ilias.uni-marburg.de/goto.php?target=file_3374935_download&client_id=UNIMR), [Werlen (1993)](https://www.erdkunde.uni-bonn.de/archive/1993/gibt-es-eine-geographie-ohne-raum-zum-verhaeltnis-von-traditioneller-geographie-und-zeitgenoessischen-gesellschaften) und [Pohl (1993)](https://www.erdkunde.uni-bonn.de/archive/1993/kann-es-eine-geographie-ohne-raum-geben-zum-verhaeltnis-von-theoriediskussion-und-disziplinpolitik). Beantworten Sie für alle Autoren die folgende Frage:
+Erarbeiten Sie den Ihnen in der Sitzung zugeteilten Text von: [Köck (2014)](https://ilias.uni-marburg.de/goto.php?target=file_3374935_download&client_id=UNIMR), [Werlen (1993)](https://www.erdkunde.uni-bonn.de/archive/1993/gibt-es-eine-geographie-ohne-raum-zum-verhaeltnis-von-traditioneller-geographie-und-zeitgenoessischen-gesellschaften) oder [Pohl (1993)](https://www.erdkunde.uni-bonn.de/archive/1993/kann-es-eine-geographie-ohne-raum-geben-zum-verhaeltnis-von-theoriediskussion-und-disziplinpolitik). Wer nicht da war, meldet sich bzgl. Zuteilung bei mir per Mail. Beantworten Sie für Ihren zugeteilten Autor die folgenden Fragen:
 * Wie definiert der Autor Raum?
 * Was ist die zentrale Argumentation des Artikels?
 Laden Sie Ihre Ausarbeitung bis spätestens Sonntag 23:55 Uhr im dafür vorgesehenen Ordner in Ilias hoch.
