@@ -40,7 +40,7 @@ Sie haben 25 Minuten Zeit, die Aufgaben zu bearbeiten. Halten Sie Ihre Ergebniss
   2. Wie kann CMCE zur Beseitigung von Stereotypen im Geographieunterricht beitragen?
   3. Welche Herausforderungen gehen mit CMCE im Unterricht einher?
      
-Laden Sie ihre Abgaben im dafür vorgesehenen Ordner auf Ilias bis spätestens Sonntag 23:55 Uhr im dafür vorgesehenen Ilias-Ordner hoch.
+Laden Sie ihre Abgaben im dafür vorgesehenen Ordner auf Ilias bis spätestens Moontag 20 Uhr im dafür vorgesehenen Ilias-Ordner hoch.
 Hinweis: Alle die nicht da waren, wählen eine der Leitfragen aus. 
 {:.notice--success}
 
