@@ -67,7 +67,7 @@ Anschließend stellen Sie sich die Arbeit in gemischten Gruppen vor. Diskutieren
 Bis zum nächsten mal:
 Lesen Sie bitte den Text von [Ammoneit et al. (2019)](https://austriaca.at/0xc1aa5576%200x003b1ef9.pdf) und [Bette & Fögele(2015)](https://ilias.uni-marburg.de/goto.php?target=file_3374928_download&client_id=UNIMR). 
 Worin unterscheiden sich die Ansätze System zu konzeptionalisieren? Exerpieren Sie was die jeweiligen Autor*innen für das Systemverständnis für bedeutsam halten. 
-Laden Sie Ihre Arbeit bis spätestens Sonntag 23:55 in dem dafür vorgesehenen Ilias-Ordner hoch. 
+Laden Sie Ihre Arbeit bis spätestens Montag 20 Uhr in dem dafür vorgesehenen Ilias-Ordner hoch. 
 {: .notice--success}
 
 
